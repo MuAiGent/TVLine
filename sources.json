@@ -1,0 +1,5215 @@
+{
+  "schemaVersion": 1,
+  "lastFullCheckAt": "2026-11-19T19:42:29.942Z",
+  "sources": [
+    {
+      "id": "auto_1b6eb9db364c0a3c",
+      "name": "🍀┃非凡┃资源·1号VIP源",
+      "url": "http://ffzy5.tv/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "green",
+      "passed": 5,
+      "total": 5,
+      "checkedAt": "2026-11-19T19:31:11.314Z",
+      "note": "",
+      "origins": [
+        "TVboxorg/TVbox"
+      ]
+    },
+    {
+      "id": "auto_520e2f824e4f6e38",
+      "name": "[采] 电影天堂",
+      "url": "http://dyttzyw.com/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "green",
+      "passed": 5,
+      "total": 5,
+      "checkedAt": "2026-11-19T19:31:08.826Z",
+      "note": "",
+      "origins": [
+        "YYDS678/uzVideo-extensions"
+      ]
+    },
+    {
+      "id": "auto_d1748edcb3696c8c",
+      "name": "www.hongniuzy2.com",
+      "url": "https://www.hongniuzy2.com/api.php/provide/vod/from/hnm3u8",
+      "format": "maccms-json",
+      "status": "green",
+      "passed": 5,
+      "total": 5,
+      "checkedAt": "2026-11-19T19:31:37.529Z",
+      "note": "",
+      "origins": [
+        "gaotianliuyun/gao"
+      ]
+    },
+    {
+      "id": "auto_e10c7ec33b04ff51",
+      "name": "[采] 电影天堂",
+      "url": "http://dyttzyw.com/api.php/provide/vod",
+      "format": "maccms-xml",
+      "status": "green",
+      "passed": 5,
+      "total": 5,
+      "checkedAt": "2026-11-19T19:31:12.400Z",
+      "note": "",
+      "origins": [
+        "YYDS678/uzVideo-extensions"
+      ]
+    },
+    {
+      "id": "auto_ef7d481b25f8b0e3",
+      "name": "🐂 红牛",
+      "url": "https://www.hongniuzy3.com/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "green",
+      "passed": 5,
+      "total": 5,
+      "checkedAt": "2026-11-19T19:31:37.360Z",
+      "note": "",
+      "origins": [
+        "jiusanzhou/tvbox"
+      ]
+    },
+    {
+      "id": "auto_f2dbc007904f2ccd",
+      "name": "非凡影视",
+      "url": "https://api.ffzyapi.com/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "green",
+      "passed": 5,
+      "total": 5,
+      "checkedAt": "2026-11-19T19:31:08.498Z",
+      "note": "",
+      "origins": [
+        "ZxxXinI/tvbox"
+      ]
+    },
+    {
+      "id": "env_0",
+      "name": "360资源",
+      "url": "https://360zy.com/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "green",
+      "passed": 5,
+      "total": 5,
+      "checkedAt": "2026-11-19T19:32:01.482Z",
+      "note": "",
+      "origins": [
+        "ZxxXinI/tvbox",
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "env_10",
+      "name": "红牛资源",
+      "url": "https://www.hongniuzy2.com/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "green",
+      "passed": 5,
+      "total": 5,
+      "checkedAt": "2026-11-19T19:32:00.302Z",
+      "note": "",
+      "origins": [
+        "ZxxXinI/tvbox",
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_1cf83762dfbe86e0",
+      "name": "🕹️淘片┃采集·ok线路1",
+      "url": "https://taopianapi.com/cjapi/mc/vod/json.html",
+      "format": "maccms-json",
+      "status": "yellow",
+      "passed": 3,
+      "total": 5,
+      "checkedAt": "2026-11-19T19:31:37.264Z",
+      "note": "媒体片段不可读",
+      "origins": [
+        "TVboxorg/TVbox"
+      ]
+    },
+    {
+      "id": "auto_5822846a7bf829c3",
+      "name": "淘片资源",
+      "url": "https://taopianapi.com/cjapi/mc10/vod/json.html",
+      "format": "maccms-json",
+      "status": "yellow",
+      "passed": 3,
+      "total": 5,
+      "checkedAt": "2026-11-19T19:31:37.096Z",
+      "note": "媒体片段不可读",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_6a34006e9a989e10",
+      "name": "小鸡资源",
+      "url": "https://api.xiaojizy.live/provide/vod",
+      "format": "maccms-json",
+      "status": "yellow",
+      "passed": 3,
+      "total": 5,
+      "checkedAt": "2026-11-19T19:32:19.931Z",
+      "note": "未匹配到样本",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_78ae38d538e89ac7",
+      "name": "番号资源",
+      "url": "http://fhapi9.com/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "yellow",
+      "passed": 3,
+      "total": 5,
+      "checkedAt": "2026-11-19T19:32:01.388Z",
+      "note": "未匹配到样本",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_9d92918f594d3f71",
+      "name": "hhzyapi.com",
+      "url": "https://hhzyapi.com/api.php/provide/vod/from/hhm3u8",
+      "format": "maccms-json",
+      "status": "yellow",
+      "passed": 3,
+      "total": 5,
+      "checkedAt": "2026-11-20T15:26:35.524Z",
+      "note": "样本检查失败、网络请求失败",
+      "origins": [
+        "gaotianliuyun/gao"
+      ]
+    },
+    {
+      "id": "auto_afe5a19b9cc50852",
+      "name": "大奶子资源",
+      "url": "https://apidanaizi.com/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "red",
+      "passed": 2,
+      "total": 5,
+      "checkedAt": "2026-11-19T19:38:59.538Z",
+      "note": "未匹配到样本",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_baaaa408c428d3ab",
+      "name": "黄色仓库",
+      "url": "https://hsckzy.vip/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "red",
+      "passed": 2,
+      "total": 5,
+      "checkedAt": "2026-11-19T19:32:29.549Z",
+      "note": "未匹配到样本",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_ece6392c061591fe",
+      "name": "金鹰点播",
+      "url": "https://jinyingzy.com/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "red",
+      "passed": 1,
+      "total": 5,
+      "checkedAt": "2026-11-20T07:25:21.118Z",
+      "note": "接口返回 HTTP 错误、请求超时",
+      "origins": [
+        "ZxxXinI/tvbox"
+      ]
+    },
+    {
+      "id": "env_14",
+      "name": "U酷资源",
+      "url": "https://api.ukuapi88.com/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "red",
+      "passed": 1,
+      "total": 5,
+      "checkedAt": "2026-11-20T15:26:13.161Z",
+      "note": "网络请求失败、请求超时",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "env_5",
+      "name": "极速资源",
+      "url": "https://jszyapi.com/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "red",
+      "passed": 1,
+      "total": 5,
+      "checkedAt": "2026-11-20T15:26:51.452Z",
+      "note": "网络请求失败、请求超时",
+      "origins": [
+        "ZxxXinI/tvbox",
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_002323d5a979037d",
+      "name": "丝袜资源采集网采集接口",
+      "url": "https://siwazyw.tv/api.php/provide/vod/at/xml",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-19T19:41:48.184Z",
+      "note": "网络请求失败",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_042901131ed9efcd",
+      "name": "豪华资源网采集接口地址",
+      "url": "https://hhzyapi.com/api.php/provide/vod/at/xml",
+      "format": "maccms-xml",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T12:46:27.108Z",
+      "note": "响应格式不符、网络请求失败、请求超时",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_047f885a331d8e31",
+      "name": "[直] 瓜子²（公开CMS探测）",
+      "url": "http://api.gudvxty.com/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-19T22:04:44.673Z",
+      "note": "未匹配到样本",
+      "origins": [
+        "YYDS678/uzVideo-extensions"
+      ]
+    },
+    {
+      "id": "auto_04cb517a7bb5454f",
+      "name": "91资源",
+      "url": "https://91jpzyw.com/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T10:06:18.040Z",
+      "note": "响应格式不符、请求超时",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_052455d5d757d634",
+      "name": "光速资源站采集接口地址",
+      "url": "https://api.guangsuapi.com/api.php/provide/vod/at/xml",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-19T19:41:59.917Z",
+      "note": "接口返回 HTTP 错误",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_06a783d8e6209c9a",
+      "name": "影视大全（公开CMS探测）",
+      "url": "https://yingshidaquan.top/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-19T20:44:46.836Z",
+      "note": "接口返回 HTTP 错误",
+      "origins": [
+        "laoma528/awesome-zhuiju-free"
+      ]
+    },
+    {
+      "id": "auto_070d50578d0129f4",
+      "name": "如意资源网采集接口",
+      "url": "https://cj.rycjapi.com/api.php/provide/vod/at/xml",
+      "format": "maccms-xml",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T09:33:57.884Z",
+      "note": "网络请求失败",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_072b57c84d86493b",
+      "name": "杏吧资源",
+      "url": "https://xingba111.com/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-19T19:41:59.363Z",
+      "note": "网络请求失败",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_07caeacbd7cbc855",
+      "name": "[盘] 玩偶（公开CMS探测）",
+      "url": "http://wogg.xxooo.cf/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T01:32:51.438Z",
+      "note": "网络请求失败",
+      "origins": [
+        "YYDS678/uzVideo-extensions"
+      ]
+    },
+    {
+      "id": "auto_08404571b0e54369",
+      "name": "🇭🇰 港澳台",
+      "url": "https://zoe.im/tvbox/shared/lives/GNTV.m3u",
+      "format": "maccms-xml",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-19T19:40:33.845Z",
+      "note": "响应格式不符",
+      "origins": [
+        "jiusanzhou/tvbox"
+      ]
+    },
+    {
+      "id": "auto_08edbc87c6369726",
+      "name": "金牌影视（公开CMS探测）",
+      "url": "https://www.vv3nwjk.com/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-19T19:41:51.649Z",
+      "note": "接口返回 HTTP 错误",
+      "origins": [
+        "laoma528/awesome-zhuiju-free"
+      ]
+    },
+    {
+      "id": "auto_09ed7ed41a1b0a9a",
+      "name": "api.xinlangapi.com",
+      "url": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/from/xlm3u8",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-19T23:08:44.512Z",
+      "note": "网络请求失败",
+      "origins": [
+        "gaotianliuyun/gao"
+      ]
+    },
+    {
+      "id": "auto_0b266a4d62a30c5f",
+      "name": "爱奇艺资源站采集接口",
+      "url": "https://www.iqiyizyapi.com/api.php/provide/vod/at/xml",
+      "format": "maccms-xml",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T10:38:00.679Z",
+      "note": "响应格式不符",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_0b402dd17f4750cd",
+      "name": "[盘] 奥秘（公开CMS探测）",
+      "url": "https://vip.omii.top/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-19T21:16:49.679Z",
+      "note": "网络请求失败",
+      "origins": [
+        "YYDS678/uzVideo-extensions"
+      ]
+    },
+    {
+      "id": "auto_0b6f82efb0e06633",
+      "name": "金马资源网采集接口",
+      "url": "https://api.jmzy.com/api.php/provide/vod/at/xml",
+      "format": "maccms-xml",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-19T19:41:38.674Z",
+      "note": "请求超时",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_0be3ef8af7df746c",
+      "name": "辣椒资源网采集接口",
+      "url": "https://apilj.com/api.php/provide/vod/at/xml",
+      "format": "maccms-xml",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T09:34:00.101Z",
+      "note": "网络请求失败",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_0c9cd19de38a012a",
+      "name": "IFN（公开CMS探测）",
+      "url": "https://ifn.watch/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T01:48:55.016Z",
+      "note": "接口返回 HTTP 错误、请求超时",
+      "origins": [
+        "laoma528/awesome-zhuiju-free"
+      ]
+    },
+    {
+      "id": "auto_0f83265f64c75a21",
+      "name": "多瑙影视（公开CMS探测）",
+      "url": "https://www.duonaovod.com/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-19T19:42:18.564Z",
+      "note": "接口返回 HTTP 错误",
+      "origins": [
+        "laoma528/awesome-zhuiju-free"
+      ]
+    },
+    {
+      "id": "auto_10ee9009c31aca81",
+      "name": "爱坤资源",
+      "url": "https://ikunzyapi.com/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T03:24:50.182Z",
+      "note": "网络请求失败",
+      "origins": [
+        "ZxxXinI/tvbox",
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_10eecc40bdb87fa0",
+      "name": "subocaiji.com",
+      "url": "https://subocaiji.com/api.php/provide/vod/from/subm3u8",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-19T23:08:43.683Z",
+      "note": "网络请求失败",
+      "origins": [
+        "gaotianliuyun/gao"
+      ]
+    },
+    {
+      "id": "auto_110a6b386392ef45",
+      "name": "[盘] 多多（公开CMS探测）",
+      "url": "https://tv.yydsys.top/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T01:00:57.184Z",
+      "note": "请求超时",
+      "origins": [
+        "YYDS678/uzVideo-extensions"
+      ]
+    },
+    {
+      "id": "auto_1195a8d131c690a0",
+      "name": "华为吧",
+      "url": "https://huawei8.live/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T05:32:51.720Z",
+      "note": "网络请求失败",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_11a0f10bfe3a82c2",
+      "name": "麒麟资源站全站采集接口",
+      "url": "http://www.qilinzyz.com/api.php/provide/vod/at/xml",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-19T20:28:44.631Z",
+      "note": "响应格式不符",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_11ff967b16c308a0",
+      "name": "剧OK（公开CMS探测）",
+      "url": "https://juok3.top/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-19T21:32:58.729Z",
+      "note": "请求超时",
+      "origins": [
+        "laoma528/awesome-zhuiju-free"
+      ]
+    },
+    {
+      "id": "auto_1222c0fa35f44a94",
+      "name": "No影视（公开CMS探测）",
+      "url": "https://novipnoad.org/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-19T20:28:48.113Z",
+      "note": "接口返回 HTTP 错误",
+      "origins": [
+        "laoma528/awesome-zhuiju-free"
+      ]
+    },
+    {
+      "id": "auto_1332a849cbebd1cd",
+      "name": "闪电资源",
+      "url": "https://sdzyapi.com/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T04:44:58.884Z",
+      "note": "响应格式不符、请求超时",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_13f9e0141da16420",
+      "name": "[盘] 319影社（公开CMS探测）",
+      "url": "https://www.319312.com/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T03:08:51.789Z",
+      "note": "网络请求失败",
+      "origins": [
+        "YYDS678/uzVideo-extensions"
+      ]
+    },
+    {
+      "id": "auto_140243bcf7081778",
+      "name": "🦚360┃采集·荐片",
+      "url": "https://360zy.com/api.php/provide/vod?",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T02:21:00.463Z",
+      "note": "接口返回 HTTP 错误",
+      "origins": [
+        "TVboxorg/TVbox"
+      ]
+    },
+    {
+      "id": "auto_14bb16d2b34d0df0",
+      "name": "16万•MV",
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lystv/short/main/影视/tvb/MTV.txt",
+      "format": "maccms-xml",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T14:22:06.416Z",
+      "note": "网络请求失败",
+      "origins": [
+        "gaotianliuyun/gao"
+      ]
+    },
+    {
+      "id": "auto_15f109a83f3c6e72",
+      "name": "[嗅] clicli（公开CMS探测）",
+      "url": "https://www.clicli.pro/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T02:52:57.783Z",
+      "note": "响应格式不符、接口返回 HTTP 错误",
+      "origins": [
+        "YYDS678/uzVideo-extensions"
+      ]
+    },
+    {
+      "id": "auto_16195e99f06adade",
+      "name": "[禁] jable（公开CMS探测）",
+      "url": "https://jable.tv/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T00:44:47.262Z",
+      "note": "网络请求失败",
+      "origins": [
+        "YYDS678/uzVideo-extensions"
+      ]
+    },
+    {
+      "id": "auto_16ae163ac637e29b",
+      "name": "[直] 金牌影视（公开CMS探测）",
+      "url": "https://www.ghw9zwp5.com/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T03:24:59.061Z",
+      "note": "请求超时",
+      "origins": [
+        "YYDS678/uzVideo-extensions"
+      ]
+    },
+    {
+      "id": "auto_18084fcd13331b0a",
+      "name": "📻 广播电台",
+      "url": "https://zoe.im/tvbox/shared/lives/Radio.m3u",
+      "format": "maccms-xml",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-19T19:40:33.532Z",
+      "note": "响应格式不符",
+      "origins": [
+        "jiusanzhou/tvbox"
+      ]
+    },
+    {
+      "id": "auto_182596c80815843f",
+      "name": "影猫仓库（公开CMS探测）",
+      "url": "https://www.ymck.pro/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-19T20:12:49.949Z",
+      "note": "接口返回 HTTP 错误",
+      "origins": [
+        "laoma528/awesome-zhuiju-free"
+      ]
+    },
+    {
+      "id": "auto_183634466a1600f6",
+      "name": "优质资源库",
+      "url": "https://api.yzzy-api.com/inc/api_mac10.php",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T06:36:54.987Z",
+      "note": "网络请求失败",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_18727f65afaf0830",
+      "name": "[禁] netflav（公开CMS探测）",
+      "url": "https://www.netflav.com/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T01:32:46.418Z",
+      "note": "网络请求失败",
+      "origins": [
+        "YYDS678/uzVideo-extensions"
+      ]
+    },
+    {
+      "id": "auto_18d268ec52752801",
+      "name": "注视影视（公开CMS探测）",
+      "url": "https://gaze.red/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-19T19:42:14.425Z",
+      "note": "接口返回 HTTP 错误",
+      "origins": [
+        "laoma528/awesome-zhuiju-free"
+      ]
+    },
+    {
+      "id": "auto_18e2773ed038ac2c",
+      "name": "魔都资源",
+      "url": "https://www.mdzyapi.com/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T15:10:10.799Z",
+      "note": "网络请求失败、请求超时",
+      "origins": [
+        "ZxxXinI/tvbox"
+      ]
+    },
+    {
+      "id": "auto_1999e0e6486da99a",
+      "name": "U酷资源",
+      "url": "https://api.ukuapi.com/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T15:42:15.216Z",
+      "note": "网络请求失败",
+      "origins": [
+        "ZxxXinI/tvbox"
+      ]
+    },
+    {
+      "id": "auto_19ca204df477f6c6",
+      "name": "海外看",
+      "url": "https://haiwaikan.com/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-19T19:41:40.073Z",
+      "note": "网络请求失败",
+      "origins": [
+        "gaotianliuyun/gao"
+      ]
+    },
+    {
+      "id": "auto_1a2103ba28408623",
+      "name": "无限资源",
+      "url": "https://api.wuxianzy.net/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T04:29:00.450Z",
+      "note": "网络请求失败",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_1a9ed2acc377051a",
+      "name": "百度┃采集",
+      "url": "https://api.apibdzy.com/api.php/provide/vod?ac=list",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T03:57:11.711Z",
+      "note": "接口返回 HTTP 错误、未匹配到样本、请求超时",
+      "origins": [
+        "gaotianliuyun/gao"
+      ]
+    },
+    {
+      "id": "auto_1b776ab5d6a31baa",
+      "name": "湿乐园",
+      "url": "https://xxavs.com/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T09:50:10.515Z",
+      "note": "响应格式不符、请求超时",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_1d125e2fd3ae71bc",
+      "name": "[直] 修罗（公开CMS探测）",
+      "url": "https://xl01.com.de/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T02:20:55.001Z",
+      "note": "网络请求失败",
+      "origins": [
+        "YYDS678/uzVideo-extensions"
+      ]
+    },
+    {
+      "id": "auto_1d6267c3f43c0703",
+      "name": "[盘] 清影（公开CMS探测）",
+      "url": "https://www.revohd.com/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T01:17:03.877Z",
+      "note": "网络请求失败",
+      "origins": [
+        "YYDS678/uzVideo-extensions"
+      ]
+    },
+    {
+      "id": "auto_1dfde111fd4e94fd",
+      "name": "YanG•直播",
+      "url": "https://tv.iill.top/m3u/Live",
+      "format": "maccms-xml",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T11:58:08.752Z",
+      "note": "网络请求失败",
+      "origins": [
+        "gaotianliuyun/gao"
+      ]
+    },
+    {
+      "id": "auto_1e12f344df96f215",
+      "name": "虎牙资源采集网采集接口",
+      "url": "https://www.huyaapi.com/api.php/provide/vod/at/xml",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T07:09:01.559Z",
+      "note": "响应格式不符、请求超时",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_1eed43c35ed122c6",
+      "name": "老色逼资源站采集接口",
+      "url": "https://apilsbzy1.com/api.php/provide/vod/at/xml",
+      "format": "maccms-xml",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T14:06:18.997Z",
+      "note": "网络请求失败、请求超时",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_1f8b85ebf30ccc5a",
+      "name": "光速影视（公开CMS探测）",
+      "url": "https://www.yingshiso.link/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-19T19:42:26.176Z",
+      "note": "接口返回 HTTP 错误",
+      "origins": [
+        "laoma528/awesome-zhuiju-free"
+      ]
+    },
+    {
+      "id": "auto_20612e2bfcfedbe3",
+      "name": "茅台资源站采集接口",
+      "url": "https://caiji.maotaizy.cc/api.php/provide/vod/at/xml",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T10:06:00.645Z",
+      "note": "未匹配到样本",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_20dd980343faa881",
+      "name": "[盘] 至臻（公开CMS探测）",
+      "url": "http://www.miqk.cc/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T03:41:09.012Z",
+      "note": "请求超时",
+      "origins": [
+        "YYDS678/uzVideo-extensions"
+      ]
+    },
+    {
+      "id": "auto_214ac38670fd2f36",
+      "name": "大奶子资源网采集接口",
+      "url": "https://apidanaizi.com/api.php/provide/vod/at/xml",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T10:22:05.761Z",
+      "note": "响应格式不符、请求超时",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_215216a825cf3ecf",
+      "name": "魔爪资源采集网采集接口",
+      "url": "https://mozhuazy.com/api.php/provide/vod/at/xml",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-19T19:41:26.070Z",
+      "note": "响应格式不符",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_21747384f2ce52aa",
+      "name": "LIBVIO（公开CMS探测）",
+      "url": "https://libviobd.com/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-19T19:42:24.552Z",
+      "note": "接口返回 HTTP 错误",
+      "origins": [
+        "laoma528/awesome-zhuiju-free"
+      ]
+    },
+    {
+      "id": "auto_239ecab43ec94654",
+      "name": "[盘] 闪电（公开CMS探测）",
+      "url": "https://sd.sduc.site/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T06:20:59.195Z",
+      "note": "网络请求失败",
+      "origins": [
+        "YYDS678/uzVideo-extensions"
+      ]
+    },
+    {
+      "id": "auto_23fbd3bd8372f40d",
+      "name": "[直] 天天影视（公开CMS探测）",
+      "url": "http://op.ysdqjs.cn/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T00:12:47.675Z",
+      "note": "网络请求失败",
+      "origins": [
+        "YYDS678/uzVideo-extensions"
+      ]
+    },
+    {
+      "id": "auto_24ce0c30c50a0e68",
+      "name": "看看鸭（公开CMS探测）",
+      "url": "https://www.kankanya.me/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T13:02:17.195Z",
+      "note": "响应格式不符",
+      "origins": [
+        "laoma528/awesome-zhuiju-free"
+      ]
+    },
+    {
+      "id": "auto_256a9545955503bb",
+      "name": "搜av资源站采集接口",
+      "url": "https://api.souavzy.vip/api.php/provide/vod/at/xml",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-19T19:42:29.901Z",
+      "note": "响应格式不符、网络请求失败",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_25db6b54b43383ae",
+      "name": "极速资源网采集接口",
+      "url": "https://jszyapi.com/api.php/provide/vod/at/xml",
+      "format": "maccms-xml",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T12:46:09.172Z",
+      "note": "响应格式不符、网络请求失败、请求超时",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_264d88d266d04b66",
+      "name": "黄色仓库资源采集网采集接口",
+      "url": "https://hsckzy888.com/api.php/provide/vod/at/xml",
+      "format": "maccms-xml",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T10:54:02.831Z",
+      "note": "响应格式不符",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_2789effabe804756",
+      "name": "量子┃采集",
+      "url": "https://cj.lziapi.com/api.php/provide/vod/at/xml",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-19T19:41:51.823Z",
+      "note": "网络请求失败",
+      "origins": [
+        "gaotianliuyun/gao"
+      ]
+    },
+    {
+      "id": "auto_280ca689326d4acd",
+      "name": "👒┃小胡┃资源┃·ok线路1",
+      "url": "http://c.小胡.icu/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T15:58:06.544Z",
+      "note": "网络请求失败",
+      "origins": [
+        "TVboxorg/TVbox"
+      ]
+    },
+    {
+      "id": "auto_28deecbb61d41f5f",
+      "name": "非凡资源网采集接口",
+      "url": "http://api.ffzyapi.com/api.php/provide/vod/at/xml",
+      "format": "maccms-xml",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T11:10:05.593Z",
+      "note": "响应格式不符",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_2909a2e013c74d49",
+      "name": "桃花资源采集网采集接口",
+      "url": "https://thzy1.me/api.php/provide/vod/at/xml",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-19T19:42:08.142Z",
+      "note": "响应格式不符",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_292937667552e92b",
+      "name": "电影天堂",
+      "url": "http://caiji.dyttzyapi.com/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-19T22:36:44.832Z",
+      "note": "网络请求失败",
+      "origins": [
+        "ZxxXinI/tvbox"
+      ]
+    },
+    {
+      "id": "auto_295f2c0b5b18b4bc",
+      "name": "西瓜影视（公开CMS探测）",
+      "url": "https://www.kanmovie.com/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-19T22:20:50.646Z",
+      "note": "接口返回 HTTP 错误",
+      "origins": [
+        "laoma528/awesome-zhuiju-free"
+      ]
+    },
+    {
+      "id": "auto_2a6ec8e14488741b",
+      "name": "奥斯卡资源",
+      "url": "https://aosikazy2.com/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T06:52:55.224Z",
+      "note": "响应格式不符、网络请求失败",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_2a82668ac2a9d7e2",
+      "name": "⚡ 非凡资源",
+      "url": "https://cj.ffzyapi.com/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-19T22:36:44.445Z",
+      "note": "网络请求失败",
+      "origins": [
+        "jiusanzhou/tvbox"
+      ]
+    },
+    {
+      "id": "auto_2b09012e4e8cbe91",
+      "name": "范明明•ipv6",
+      "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
+      "format": "maccms-xml",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T12:30:00.353Z",
+      "note": "网络请求失败",
+      "origins": [
+        "gaotianliuyun/gao"
+      ]
+    },
+    {
+      "id": "auto_2cd4c484ccea0b02",
+      "name": "[直] 两个BT（公开CMS探测）",
+      "url": "https://www.bttwoo.com/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T04:12:52.089Z",
+      "note": "网络请求失败",
+      "origins": [
+        "YYDS678/uzVideo-extensions"
+      ]
+    },
+    {
+      "id": "auto_2e8b36c310248446",
+      "name": "番茄资源采集接口",
+      "url": "https://fqzy.me//api.php/provide/vod/at/xml",
+      "format": "maccms-xml",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T12:46:18.832Z",
+      "note": "响应格式不符",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_2fcf0341111e022c",
+      "name": "虾米资源",
+      "url": "https://zy.hls.one/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T02:37:07.634Z",
+      "note": "网络请求失败",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_303b5b98b2ecd564",
+      "name": "魔都动漫资源采集网采集接口",
+      "url": "https://www.mdzyapi.com/api.php/provide/vod/at/xml",
+      "format": "maccms-xml",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T11:26:07.814Z",
+      "note": "响应格式不符、请求超时",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_304cfd4071162d07",
+      "name": "YanG•斗鱼",
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/YanG-1989/m3u/main/yu.m3u",
+      "format": "maccms-xml",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-19T19:40:45.726Z",
+      "note": "网络请求失败",
+      "origins": [
+        "gaotianliuyun/gao"
+      ]
+    },
+    {
+      "id": "auto_30fbcc58ce590d21",
+      "name": "电影天堂采集综合资源接口",
+      "url": "http://caiji.dyttzyapi.com/api.php/provide/vod/at/xml",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T08:45:55.699Z",
+      "note": "网络请求失败",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_3143248e61cf81dc",
+      "name": "如意资源网采集接口",
+      "url": "https://cj.rycjapi.com/api.php/provide/vod/at/xml",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-19T19:40:39.804Z",
+      "note": "网络请求失败",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_31f50c8c0bb67adc",
+      "name": "ZIP0（公开CMS探测）",
+      "url": "https://zip0.com/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-19T23:56:46.224Z",
+      "note": "接口返回 HTTP 错误",
+      "origins": [
+        "laoma528/awesome-zhuiju-free"
+      ]
+    },
+    {
+      "id": "auto_334483ad9151a99b",
+      "name": "虎牙资源采集网采集接口",
+      "url": "https://www.huyaapi.com/api.php/provide/vod/at/xml",
+      "format": "maccms-xml",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T07:09:05.848Z",
+      "note": "未匹配到样本",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_343651adb8252ad6",
+      "name": "[直] 4k-av （公开CMS探测）",
+      "url": "https://4k-av.com/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T03:09:00.238Z",
+      "note": "接口返回 HTTP 错误",
+      "origins": [
+        "YYDS678/uzVideo-extensions"
+      ]
+    },
+    {
+      "id": "auto_349646d07e8123c2",
+      "name": "暴风资源网采集接口",
+      "url": "https://bfzyapi.com/api.php/provide/vod/at/xml",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-19T19:41:23.665Z",
+      "note": "网络请求失败",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_34cba95232bb35e2",
+      "name": "CK资源采集接口",
+      "url": "https://ckzy.me/api.php/provide/vod/at/xml",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-19T19:42:00.964Z",
+      "note": "响应格式不符",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_351b6838148b3d7c",
+      "name": "[盘] 木偶（公开CMS探测）",
+      "url": "https://666.666291.xyz/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T03:08:53.183Z",
+      "note": "响应格式不符",
+      "origins": [
+        "YYDS678/uzVideo-extensions"
+      ]
+    },
+    {
+      "id": "auto_35bf531f4e11ba29",
+      "name": "豆花电影网（公开CMS探测）",
+      "url": "https://dhvideo.cc/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-19T21:48:43.152Z",
+      "note": "接口返回 HTTP 错误",
+      "origins": [
+        "laoma528/awesome-zhuiju-free"
+      ]
+    },
+    {
+      "id": "auto_35c214143fc8d676",
+      "name": "🏞 湖南本地",
+      "url": "https://zoe.im/tvbox/shared/lives/Hunan.txt",
+      "format": "maccms-xml",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T14:54:29.611Z",
+      "note": "响应格式不符、网络请求失败、请求超时",
+      "origins": [
+        "jiusanzhou/tvbox"
+      ]
+    },
+    {
+      "id": "auto_35e89429e0ddeb2c",
+      "name": "[直] 老白听书（公开CMS探测）",
+      "url": "https://apk-lb-json.fodexin.com/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-19T22:04:46.529Z",
+      "note": "网络请求失败",
+      "origins": [
+        "YYDS678/uzVideo-extensions"
+      ]
+    },
+    {
+      "id": "auto_361de0f46352c47d",
+      "name": "茅台资源",
+      "url": "https://caiji.maotaizy.cc/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T05:33:10.397Z",
+      "note": "未匹配到样本",
+      "origins": [
+        "ZxxXinI/tvbox",
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_363b44dd507db41d",
+      "name": "光速资源站采集接口地址",
+      "url": "https://api.guangsuapi.com/api.php/provide/vod/at/xml",
+      "format": "maccms-xml",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T13:34:09.563Z",
+      "note": "响应格式不符、网络请求失败、请求超时",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_36579e599da452d6",
+      "name": "简云影视（公开CMS探测）",
+      "url": "https://jianyunys.com/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T02:05:00.293Z",
+      "note": "响应格式不符",
+      "origins": [
+        "laoma528/awesome-zhuiju-free"
+      ]
+    },
+    {
+      "id": "auto_36ef8d9dc37907fc",
+      "name": "91精品资源网采集接口",
+      "url": "https://91jpzyw.com/api.php/provide/vod/at/xml",
+      "format": "maccms-xml",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T08:30:06.140Z",
+      "note": "响应格式不符、请求超时",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_3707964213fcc41d",
+      "name": "奶香香资源站采集接口",
+      "url": "https://Naixxzy.com/api.php/provide/vod/at/xml",
+      "format": "maccms-xml",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T10:38:08.642Z",
+      "note": "网络请求失败",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_37531b77f5b13841",
+      "name": "樱花资源网采集接口",
+      "url": "https://m3u8.apiyhzy.com/api.php/provide/vod/at/xml",
+      "format": "maccms-xml",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T10:54:03.248Z",
+      "note": "网络请求失败",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_390266dbe3c07a0b",
+      "name": "[直] 烧火（公开CMS探测）",
+      "url": "https://saohuo.tv/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T01:01:21.264Z",
+      "note": "请求超时",
+      "origins": [
+        "YYDS678/uzVideo-extensions"
+      ]
+    },
+    {
+      "id": "auto_3ae12bb42f300f73",
+      "name": "幸资源站采集接口",
+      "url": "https://xzybb1.com/api.php/provide/vod/at/xml",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T06:21:01.003Z",
+      "note": "网络请求失败",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_3b0a8bf2221c04a0",
+      "name": "黑木耳资源",
+      "url": "https://json.heimuer.xyz/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T04:13:00.354Z",
+      "note": "响应格式不符、请求超时",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_3b939b81e75758cf",
+      "name": "X细胞资源",
+      "url": "https://www.xxibaozyw.com/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T10:54:05.412Z",
+      "note": "网络请求失败",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_3b98a53ad9ab2d8d",
+      "name": "剧踪影院（公开CMS探测）",
+      "url": "https://www.juzong01.me/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T00:12:50.228Z",
+      "note": "响应格式不符",
+      "origins": [
+        "laoma528/awesome-zhuiju-free"
+      ]
+    },
+    {
+      "id": "auto_3c340030770c0794",
+      "name": "索尼资源",
+      "url": "https://suoniapi.com/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T04:44:59.367Z",
+      "note": "网络请求失败",
+      "origins": [
+        "TVboxorg/TVbox",
+        "gaotianliuyun/gao",
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_3c53bf250b24799d",
+      "name": "宅男影视（公开CMS探测）",
+      "url": "https://zndy.top/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-19T20:44:48.571Z",
+      "note": "响应格式不符",
+      "origins": [
+        "laoma528/awesome-zhuiju-free"
+      ]
+    },
+    {
+      "id": "auto_3d58f5d95283aeef",
+      "name": "卧龙资源",
+      "url": "https://wolongzyw.com/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-19T19:40:45.362Z",
+      "note": "响应格式不符",
+      "origins": [
+        "ZxxXinI/tvbox"
+      ]
+    },
+    {
+      "id": "auto_3d782442efed2e34",
+      "name": "魔都动漫资源采集网采集接口",
+      "url": "https://www.mdzyapi.com/api.php/provide/vod/at/xml",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-19T19:41:36.433Z",
+      "note": "响应格式不符",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_3f9c0e23f9aa825d",
+      "name": "⛱┃可可┃采集·ok线路1",
+      "url": "https://kekezy1.com/api.php/provide/vod/?ac=list",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-19T19:40:38.813Z",
+      "note": "网络请求失败",
+      "origins": [
+        "TVboxorg/TVbox"
+      ]
+    },
+    {
+      "id": "auto_4207fc1db8f42922",
+      "name": "豆瓣资源",
+      "url": "https://dbzy.tv/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T15:58:14.597Z",
+      "note": "网络请求失败",
+      "origins": [
+        "ZxxXinI/tvbox"
+      ]
+    },
+    {
+      "id": "auto_425da1369a56d02b",
+      "name": "PPnix（公开CMS探测）",
+      "url": "https://www.ppnix.com/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T01:16:53.807Z",
+      "note": "响应格式不符",
+      "origins": [
+        "laoma528/awesome-zhuiju-free"
+      ]
+    },
+    {
+      "id": "auto_42eec428b7bd08ae",
+      "name": "[直] 欧乐（公开CMS探测）",
+      "url": "https://www.olehdtv.com/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T06:05:01.648Z",
+      "note": "接口返回 HTTP 错误",
+      "origins": [
+        "YYDS678/uzVideo-extensions"
+      ]
+    },
+    {
+      "id": "auto_4375a1acdc062484",
+      "name": "金马资源网采集接口",
+      "url": "https://api.jmzy.com/api.php/provide/vod/at/xml",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-19T19:41:35.545Z",
+      "note": "请求超时",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_4588b8628d0c7966",
+      "name": "色南国资源",
+      "url": "https://api.sexnguon.com/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T09:18:06.441Z",
+      "note": "网络请求失败",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_46c29f9dc071e53f",
+      "name": "樱花资源网采集接口",
+      "url": "https://m3u8.apiyhzy.com/api.php/provide/vod/at/xml",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-19T19:41:26.366Z",
+      "note": "网络请求失败",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_47703ae5d6bf0d5c",
+      "name": "无尽资源",
+      "url": "https://api.wujinapi.net/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T04:45:09.800Z",
+      "note": "接口返回 HTTP 错误、请求超时",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_48ce51e9c9e37dd1",
+      "name": "155资源",
+      "url": "https://155api.com/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T07:42:29.120Z",
+      "note": "未匹配到样本、样本检查失败、请求超时",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_4ab3bcae3be28733",
+      "name": "91视频",
+      "url": "https://91av.cyou/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T11:58:26.345Z",
+      "note": "请求超时",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_4bf5b2fca76b67be",
+      "name": "非凡┃采集",
+      "url": "http://cj.ffzyapi.com/api.php/provide/vod/at/xml",
+      "format": "maccms-xml",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T14:38:08.832Z",
+      "note": "网络请求失败",
+      "origins": [
+        "gaotianliuyun/gao"
+      ]
+    },
+    {
+      "id": "auto_4c59085f822d450e",
+      "name": "草榴资源",
+      "url": "https://www.caoliuzyw.com/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T05:16:52.883Z",
+      "note": "网络请求失败",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_4c6677e3c1322aad",
+      "name": "[盘] 百家（公开CMS探测）",
+      "url": "http://cj.jiexi.news/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-19T21:16:48.186Z",
+      "note": "网络请求失败",
+      "origins": [
+        "YYDS678/uzVideo-extensions"
+      ]
+    },
+    {
+      "id": "auto_4cc0049052ba3416",
+      "name": "奈飞工厂（公开CMS探测）",
+      "url": "https://www.netflixgc.com/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-19T19:42:21.491Z",
+      "note": "响应格式不符",
+      "origins": [
+        "laoma528/awesome-zhuiju-free"
+      ]
+    },
+    {
+      "id": "auto_4e289c70a33e23ff",
+      "name": "SA视频（公开CMS探测）",
+      "url": "https://www.lsjys11.com/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-19T19:42:29.548Z",
+      "note": "接口返回 HTTP 错误",
+      "origins": [
+        "laoma528/awesome-zhuiju-free"
+      ]
+    },
+    {
+      "id": "auto_50b694fce6e95d1f",
+      "name": "玉兔资源采集接口",
+      "url": "https://apiyutu.com/api.php/provide/vod/at/xml",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-19T21:16:46.428Z",
+      "note": "响应格式不符",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_51554cafafa46336",
+      "name": "[盘] 清影（公开CMS探测）",
+      "url": "http://www.revohd.com/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T02:20:53.386Z",
+      "note": "网络请求失败",
+      "origins": [
+        "YYDS678/uzVideo-extensions"
+      ]
+    },
+    {
+      "id": "auto_52a4aa9cacd56261",
+      "name": "爱坤联盟资源网采集接口",
+      "url": "https://www.jkunzyapi.com/api.php/provide/vod/at/xml",
+      "format": "maccms-xml",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T13:50:22.956Z",
+      "note": "响应格式不符、网络请求失败、请求超时",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_544201806c1924ad",
+      "name": "量子┃采集",
+      "url": "https://cj.lziapi.com/api.php/provide/vod/at/xml",
+      "format": "maccms-xml",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T13:34:00.890Z",
+      "note": "网络请求失败",
+      "origins": [
+        "gaotianliuyun/gao"
+      ]
+    },
+    {
+      "id": "auto_54bb9c824d930331",
+      "name": "🐯虎牙采集·ok线路1",
+      "url": "https://www.huyaapi.com/api.php/provide/vod/from/hym3u8",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-19T23:24:45.395Z",
+      "note": "接口返回 HTTP 错误",
+      "origins": [
+        "TVboxorg/TVbox"
+      ]
+    },
+    {
+      "id": "auto_554848186050abf5",
+      "name": "豪华资源网采集接口地址",
+      "url": "https://hhzyapi.com/api.php/provide/vod/at/xml",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-19T19:41:27.905Z",
+      "note": "响应格式不符",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_57032590b6e5267e",
+      "name": "[盘] 六趣（公开CMS探测）",
+      "url": "https://wp.0v.fit/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-19T22:04:48.959Z",
+      "note": "网络请求失败",
+      "origins": [
+        "YYDS678/uzVideo-extensions"
+      ]
+    },
+    {
+      "id": "auto_58f69dd185a6ba19",
+      "name": "白狐资源",
+      "url": "https://baihuzy.com/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T04:45:01.150Z",
+      "note": "网络请求失败",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_59e95eed05ab2d03",
+      "name": "老色逼资源站采集接口",
+      "url": "https://apilsbzy1.com/api.php/provide/vod/at/xml",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-19T21:16:51.752Z",
+      "note": "响应格式不符",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_5a69484ce0ffec49",
+      "name": "飘零影院",
+      "url": "https://p2100.net/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-19T21:32:49.958Z",
+      "note": "响应格式不符",
+      "origins": [
+        "ZxxXinI/tvbox",
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_5af0e3d168ee0226",
+      "name": "黄色仓库资源采集网采集接口",
+      "url": "https://hsckzy888.com/api.php/provide/vod/at/xml",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T10:38:06.384Z",
+      "note": "响应格式不符",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_5bd6888f4a906cdf",
+      "name": "MemoryC•综合",
+      "url": "https://ghp.ci/raw.githubusercontent.com/MemoryCollection/IPTV/refs/heads/main/itvlist.m3u",
+      "format": "maccms-xml",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T11:10:02.937Z",
+      "note": "网络请求失败",
+      "origins": [
+        "gaotianliuyun/gao"
+      ]
+    },
+    {
+      "id": "auto_5bed45fa20d7366a",
+      "name": "魔爪资源采集网采集接口",
+      "url": "https://mozhuazy.com/api.php/provide/vod/at/xml",
+      "format": "maccms-xml",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T11:26:24.530Z",
+      "note": "响应格式不符",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_5c413d55f2ca2d49",
+      "name": "樱花资源",
+      "url": "https://m3u8.apiyhzy.com/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T05:32:57.145Z",
+      "note": "网络请求失败",
+      "origins": [
+        "ZxxXinI/tvbox",
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_5c7083feabe19b8c",
+      "name": "🌪️暴风影音·ok线路1",
+      "url": "https://app.bfzyapi.com/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-19T23:08:43.288Z",
+      "note": "网络请求失败",
+      "origins": [
+        "TVboxorg/TVbox"
+      ]
+    },
+    {
+      "id": "auto_5df424a6d85c349d",
+      "name": "[嗅] E-ACG（公开CMS探测）",
+      "url": "https://eacg1.com/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T02:36:55.902Z",
+      "note": "接口返回 HTTP 错误、请求超时",
+      "origins": [
+        "YYDS678/uzVideo-extensions"
+      ]
+    },
+    {
+      "id": "auto_5ece2b32fae25f23",
+      "name": "无尽资源",
+      "url": "https://api.wujinapi.me/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-19T19:41:14.240Z",
+      "note": "接口返回 HTTP 错误",
+      "origins": [
+        "ZxxXinI/tvbox"
+      ]
+    },
+    {
+      "id": "auto_5ee8162cc8253be1",
+      "name": "[直] 奇优（公开CMS探测）",
+      "url": "http://www.qiyoudy4.com/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T05:48:58.096Z",
+      "note": "响应格式不符",
+      "origins": [
+        "YYDS678/uzVideo-extensions"
+      ]
+    },
+    {
+      "id": "auto_600dcbdc4f5acfe0",
+      "name": "🎬 欧洲 (HBO/Cinemax/AMC)",
+      "url": "https://zoe.im/tvbox/shared/lives/CZ-SK.m3u",
+      "format": "maccms-xml",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T15:42:14.659Z",
+      "note": "响应格式不符、网络请求失败",
+      "origins": [
+        "jiusanzhou/tvbox"
+      ]
+    },
+    {
+      "id": "auto_605edd68e02daada",
+      "name": "豆瓣资源",
+      "url": "https://caiji.dbzy.tv/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T03:08:49.649Z",
+      "note": "网络请求失败",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_60a8a8d127afcd27",
+      "name": "美少女资源",
+      "url": "https://www.msnii.com/api/json.php",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T06:05:04.499Z",
+      "note": "未匹配到样本",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_60acaaed6a05f29c",
+      "name": "[盘] 清影（公开CMS探测）",
+      "url": "https://revohd.com/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T01:48:59.766Z",
+      "note": "网络请求失败",
+      "origins": [
+        "YYDS678/uzVideo-extensions"
+      ]
+    },
+    {
+      "id": "auto_614c4eac89ae5144",
+      "name": "魔爪资源",
+      "url": "https://mozhuazy.com/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T07:09:08.318Z",
+      "note": "响应格式不符",
+      "origins": [
+        "ZxxXinI/tvbox",
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_6172fdf9713a18e6",
+      "name": "爱坤联盟资源网采集接口",
+      "url": "https://www.jkunzyapi.com/api.php/provide/vod/at/xml",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-19T19:41:51.109Z",
+      "note": "响应格式不符",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_617543d64fec3a61",
+      "name": "幸资源",
+      "url": "https://xzybb1.com/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T06:20:56.953Z",
+      "note": "网络请求失败",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_61ae28cec5debc69",
+      "name": "快帆",
+      "url": "https://api.kuaifan.tv/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-19T19:41:40.984Z",
+      "note": "网络请求失败",
+      "origins": [
+        "gaotianliuyun/gao"
+      ]
+    },
+    {
+      "id": "auto_61c162565ce7c810",
+      "name": "[盘] 奕搜（公开CMS探测）",
+      "url": "https://ysso.cc/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T05:33:05.699Z",
+      "note": "响应格式不符、请求超时",
+      "origins": [
+        "YYDS678/uzVideo-extensions"
+      ]
+    },
+    {
+      "id": "auto_63adc65f923cf281",
+      "name": "卧龙资源",
+      "url": "https://collect.wolongzyw.com/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T08:29:57.536Z",
+      "note": "响应格式不符",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_63f3ea7fa8361bae",
+      "name": "FMM_IPV6",
+      "url": "https://m3u.ibert.me/txt/fmml_ipv6.txt",
+      "format": "maccms-xml",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T14:38:11.579Z",
+      "note": "响应格式不符",
+      "origins": [
+        "gaotianliuyun/gao"
+      ]
+    },
+    {
+      "id": "auto_653ea81b6a618ba6",
+      "name": "jszyapi.com",
+      "url": "https://jszyapi.com/api.php/provide/vod/from/jsm3u8",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T13:34:20.740Z",
+      "note": "样本检查失败、网络请求失败、请求超时",
+      "origins": [
+        "gaotianliuyun/gao"
+      ]
+    },
+    {
+      "id": "auto_669206549ca535a3",
+      "name": "魔都资源",
+      "url": "https://www.moduzy.com/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T09:18:10.215Z",
+      "note": "网络请求失败",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_66ffee230aaa2924",
+      "name": "X细胞资源网采集接口",
+      "url": "https://www.xxibaozyw.com/api.php/provide/vod/at/xml",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-19T19:41:41.587Z",
+      "note": "网络请求失败",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_67a34ebefa7ad0d7",
+      "name": "鲨鱼资源",
+      "url": "https://shayuapi.com/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T05:00:53.799Z",
+      "note": "网络请求失败",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_67b0d078e3f9f6b1",
+      "name": "玉兔资源",
+      "url": "https://apiyutu.com/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-19T19:40:54.824Z",
+      "note": "请求超时",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_684512e59c4d8272",
+      "name": "电影人生（公开CMS探测）",
+      "url": "https://dyrs.tv/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-19T21:48:51.633Z",
+      "note": "接口返回 HTTP 错误",
+      "origins": [
+        "laoma528/awesome-zhuiju-free"
+      ]
+    },
+    {
+      "id": "auto_688e875fec5e76ad",
+      "name": "YanG•综合",
+      "url": "https://tv.iill.top/m3u/Gather",
+      "format": "maccms-xml",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T11:41:59.448Z",
+      "note": "网络请求失败",
+      "origins": [
+        "gaotianliuyun/gao"
+      ]
+    },
+    {
+      "id": "auto_69635eab1f7c5be0",
+      "name": "玉兔资源采集接口",
+      "url": "https://apiyutu.com/api.php/provide/vod/at/xml",
+      "format": "maccms-xml",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T14:06:10.140Z",
+      "note": "网络请求失败、请求超时",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_696d3e1521a8c83a",
+      "name": "如意资源",
+      "url": "https://cj.rycjapi.com/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-19T19:41:16.249Z",
+      "note": "网络请求失败",
+      "origins": [
+        "TVboxorg/TVbox",
+        "YYDS678/uzVideo-extensions",
+        "ZxxXinI/tvbox",
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_69b17061e70df2c0",
+      "name": "大奶子资源网采集接口",
+      "url": "https://apidanaizi.com/api.php/provide/vod/at/xml",
+      "format": "maccms-xml",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T10:22:05.848Z",
+      "note": "未匹配到样本",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_69d099ba1367dce5",
+      "name": "片库（公开CMS探测）",
+      "url": "https://4k01.pianku.online/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-19T21:48:46.502Z",
+      "note": "响应格式不符",
+      "origins": [
+        "laoma528/awesome-zhuiju-free"
+      ]
+    },
+    {
+      "id": "auto_6a486449231baec4",
+      "name": "[嗅] 八号影视（公开CMS探测）",
+      "url": "https://www.bahaotv.com/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T03:41:29.338Z",
+      "note": "媒体片段不可读、未匹配到样本",
+      "origins": [
+        "YYDS678/uzVideo-extensions"
+      ]
+    },
+    {
+      "id": "auto_6b36dc1a81247b7a",
+      "name": "YanG•虎牙",
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/YanG-1989/m3u/main/ya.m3u",
+      "format": "maccms-xml",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-19T19:41:16.420Z",
+      "note": "网络请求失败",
+      "origins": [
+        "gaotianliuyun/gao"
+      ]
+    },
+    {
+      "id": "auto_6b91927223f7d8ae",
+      "name": "4k影视（公开CMS探测）",
+      "url": "https://www.4kvm.cc/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-19T19:42:17.400Z",
+      "note": "网络请求失败",
+      "origins": [
+        "laoma528/awesome-zhuiju-free"
+      ]
+    },
+    {
+      "id": "auto_6c1b178a1367936e",
+      "name": "[盘] 云盘资源网（公开CMS探测）",
+      "url": "https://res.yunpan.win/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T00:28:46.884Z",
+      "note": "网络请求失败",
+      "origins": [
+        "YYDS678/uzVideo-extensions"
+      ]
+    },
+    {
+      "id": "auto_6c454ed184f99806",
+      "name": "丝袜资源",
+      "url": "https://www.siwazyw.tv/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T08:45:57.483Z",
+      "note": "网络请求失败",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_6ec2873121196196",
+      "name": "洛雪TV（公开CMS探测）",
+      "url": "https://tv.lxyy.club/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T00:28:49.218Z",
+      "note": "接口返回 HTTP 错误",
+      "origins": [
+        "laoma528/awesome-zhuiju-free"
+      ]
+    },
+    {
+      "id": "auto_704747d2b1f63592",
+      "name": "鸭鸭资源",
+      "url": "https://cj.yayazy.net/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T03:57:19.977Z",
+      "note": "响应格式不符、请求超时",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_71fea45b589f8978",
+      "name": "奥斯卡资源API采集接口大全",
+      "url": "https://aosikazy.com/api.php/provide/vod/at/xml",
+      "format": "maccms-xml",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T11:26:20.353Z",
+      "note": "响应格式不符",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_72213f248d9e3a8c",
+      "name": "金蝉资源",
+      "url": "https://zy.jinchancaiji.com/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T02:52:49.549Z",
+      "note": "网络请求失败",
+      "origins": [
+        "YYDS678/uzVideo-extensions",
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_737feb2ee9536ec6",
+      "name": "360资源站采集接口",
+      "url": "https://360zyzz.com/api.php/provide/vod/at/xml",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-19T19:41:46.823Z",
+      "note": "响应格式不符",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_74d43d1c0ccd055f",
+      "name": "[嗅] NT动漫（公开CMS探测）",
+      "url": "https://www.ntdm9.com/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T02:37:06.260Z",
+      "note": "网络请求失败",
+      "origins": [
+        "YYDS678/uzVideo-extensions"
+      ]
+    },
+    {
+      "id": "auto_750cc9fa24b1f32a",
+      "name": "青空次元（公开CMS探测）",
+      "url": "https://www.sorani.net/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-19T19:42:05.134Z",
+      "note": "接口返回 HTTP 错误",
+      "origins": [
+        "laoma528/awesome-zhuiju-free"
+      ]
+    },
+    {
+      "id": "auto_7593f5d772d4c6f5",
+      "name": "番茄资源采集接口",
+      "url": "https://fqzy.me//api.php/provide/vod/at/xml",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-19T19:41:33.183Z",
+      "note": "响应格式不符",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_75f286b5abf38786",
+      "name": "Auete影视（公开CMS探测）",
+      "url": "https://www.aeete.com/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-19T19:42:08.997Z",
+      "note": "接口返回 HTTP 错误",
+      "origins": [
+        "laoma528/awesome-zhuiju-free"
+      ]
+    },
+    {
+      "id": "auto_76959baf7e9a1234",
+      "name": "937影视（公开CMS探测）",
+      "url": "https://www.937tv.vip/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-19T19:42:05.527Z",
+      "note": "网络请求失败",
+      "origins": [
+        "laoma528/awesome-zhuiju-free"
+      ]
+    },
+    {
+      "id": "auto_77aed6e01e8876c5",
+      "name": "爱看机器人（公开CMS探测）",
+      "url": "https://www1.aikanbot.com/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-19T19:42:26.680Z",
+      "note": "网络请求失败",
+      "origins": [
+        "laoma528/awesome-zhuiju-free"
+      ]
+    },
+    {
+      "id": "auto_78a5df6fcc3d4f64",
+      "name": "香奶儿资源",
+      "url": "https://www.gdlsp.com/api/json.php",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T14:22:21.546Z",
+      "note": "接口返回 HTTP 错误、未匹配到样本",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_791b75407fb98876",
+      "name": "丫丫资源网采集接口",
+      "url": "https://cj.yayazy.net/api.php/provide/vod/at/xml",
+      "format": "maccms-xml",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T11:26:16.509Z",
+      "note": "响应格式不符、请求超时",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_79c4ea440d81c2a3",
+      "name": "天翼影视",
+      "url": "https://www.911ysw.top/tianyi.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T06:53:03.820Z",
+      "note": "响应格式不符、请求超时",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_7a11d9ab53c6050b",
+      "name": "🎹┃MTV┃合集·ok线路1",
+      "url": "https://mv.wogg.link/mv/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-19T19:42:18.446Z",
+      "note": "响应格式不符、未匹配到样本",
+      "origins": [
+        "TVboxorg/TVbox"
+      ]
+    },
+    {
+      "id": "auto_7a7f9e7497e81b93",
+      "name": "森林资源网采集接口",
+      "url": "https://slapibf.com/api.php/provide/vod/at/xml",
+      "format": "maccms-xml",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T13:18:06.729Z",
+      "note": "网络请求失败",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_7d0d6e557dded156",
+      "name": "91毒舌（公开CMS探测）",
+      "url": "https://www.duse0.com/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-19T19:42:24.186Z",
+      "note": "接口返回 HTTP 错误",
+      "origins": [
+        "laoma528/awesome-zhuiju-free"
+      ]
+    },
+    {
+      "id": "auto_7d5ce1bc6e3dd9e1",
+      "name": "66 大片网（公开CMS探测）",
+      "url": "https://www.77dpw.vip/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-19T21:00:42.140Z",
+      "note": "响应格式不符",
+      "origins": [
+        "laoma528/awesome-zhuiju-free"
+      ]
+    },
+    {
+      "id": "auto_7d9be358167a7375",
+      "name": "[直] 囧次元（公开CMS探测）",
+      "url": "https://jocy.app/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T00:28:45.059Z",
+      "note": "网络请求失败",
+      "origins": [
+        "YYDS678/uzVideo-extensions"
+      ]
+    },
+    {
+      "id": "auto_80fbe49fb4fdf306",
+      "name": "[盘] 蜡笔（公开CMS探测）",
+      "url": "http://feimao888.fun/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T00:44:46.438Z",
+      "note": "网络请求失败",
+      "origins": [
+        "YYDS678/uzVideo-extensions"
+      ]
+    },
+    {
+      "id": "auto_81541b94a572ddc9",
+      "name": "📺 IPTV 综合",
+      "url": "https://zoe.im/tvbox/shared/lives/IPTV.m3u",
+      "format": "maccms-xml",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T15:42:12.218Z",
+      "note": "网络请求失败、请求超时",
+      "origins": [
+        "jiusanzhou/tvbox"
+      ]
+    },
+    {
+      "id": "auto_81f906d22adf7f16",
+      "name": "CK资源",
+      "url": "https://ckzy.me/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-19T21:00:59.333Z",
+      "note": "媒体片段不可读、未匹配到样本",
+      "origins": [
+        "ZxxXinI/tvbox",
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_82d39357e910619d",
+      "name": "🎙 央视备用 (CUTV)",
+      "url": "https://zoe.im/tvbox/shared/lives/CUTV.txt",
+      "format": "maccms-xml",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-19T19:40:36.419Z",
+      "note": "响应格式不符",
+      "origins": [
+        "jiusanzhou/tvbox"
+      ]
+    },
+    {
+      "id": "auto_8302666564691be7",
+      "name": "[禁] 麻豆（公开CMS探测）",
+      "url": "https://madou.club/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T00:44:46.869Z",
+      "note": "网络请求失败",
+      "origins": [
+        "YYDS678/uzVideo-extensions"
+      ]
+    },
+    {
+      "id": "auto_83c3e1617cd004a9",
+      "name": "天涯影视资源网采集接口",
+      "url": "https://tyyszyapi.com/api.php/provide/vod/at/xml",
+      "format": "maccms-xml",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T08:14:12.536Z",
+      "note": "响应格式不符、请求超时",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_844abbae184cff08",
+      "name": "电影天堂",
+      "url": "https://caiji.dyttzyapi.com/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-19T22:52:43.432Z",
+      "note": "网络请求失败",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_856e2e7aa46c2afe",
+      "name": "麒麟资源站全站采集接口",
+      "url": "http://www.qilinzyz.com/api.php/provide/vod/at/xml",
+      "format": "maccms-xml",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T14:22:14.930Z",
+      "note": "网络请求失败、请求超时",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_85f240d024612cd1",
+      "name": "[嗅] 风车动漫（公开CMS探测）",
+      "url": "https://www.tt776b.com/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T04:12:51.724Z",
+      "note": "网络请求失败",
+      "origins": [
+        "YYDS678/uzVideo-extensions"
+      ]
+    },
+    {
+      "id": "auto_860956a882bcf73d",
+      "name": "范明明•电台1",
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/fanmingming/live/main/radio/m3u/fm.m3u",
+      "format": "maccms-xml",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T11:42:03.310Z",
+      "note": "网络请求失败",
+      "origins": [
+        "gaotianliuyun/gao"
+      ]
+    },
+    {
+      "id": "auto_8645b574867fb428",
+      "name": "[嗅] mifun（公开CMS探测）",
+      "url": "http://www.mifun.tw/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-19T22:36:44.088Z",
+      "note": "接口返回 HTTP 错误",
+      "origins": [
+        "YYDS678/uzVideo-extensions"
+      ]
+    },
+    {
+      "id": "auto_870f41349df7d57e",
+      "name": "蛋蛋魔法（公开CMS探测）",
+      "url": "https://ddmf.net/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T15:26:21.450Z",
+      "note": "网络请求失败、请求超时",
+      "origins": [
+        "laoma528/awesome-zhuiju-free"
+      ]
+    },
+    {
+      "id": "auto_87fd64228bfb217c",
+      "name": "富二代资源",
+      "url": "http://f2dcj6.com/sapi",
+      "format": "maccms-xml",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T09:18:08.255Z",
+      "note": "接口返回 HTTP 错误",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_892ab419fe135d55",
+      "name": "奈飞工厂（公开CMS探测）",
+      "url": "https://naifei.fyi/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-19T19:42:08.802Z",
+      "note": "网络请求失败",
+      "origins": [
+        "laoma528/awesome-zhuiju-free"
+      ]
+    },
+    {
+      "id": "auto_893b41c0f69a84c7",
+      "name": "GAY资源",
+      "url": "https://gayapi.com/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T05:00:55.602Z",
+      "note": "网络请求失败",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_89ce45eb7f24d2b1",
+      "name": "[直] 蛋蛋剧（公开CMS探测）",
+      "url": "https://www.dandanju.tv/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-19T22:20:45.975Z",
+      "note": "响应格式不符",
+      "origins": [
+        "YYDS678/uzVideo-extensions"
+      ]
+    },
+    {
+      "id": "auto_8a692817647fddab",
+      "name": "旺旺短剧",
+      "url": "https://wwzy.tv/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-19T19:41:17.947Z",
+      "note": "网络请求失败",
+      "origins": [
+        "ZxxXinI/tvbox"
+      ]
+    },
+    {
+      "id": "auto_8b8f7d8986067170",
+      "name": "新浪资源",
+      "url": "https://api.xinlangapi.com/xinlangapi.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-19T23:08:44.103Z",
+      "note": "网络请求失败",
+      "origins": [
+        "ZxxXinI/tvbox"
+      ]
+    },
+    {
+      "id": "auto_8df8301e00588685",
+      "name": "天涯资源",
+      "url": "https://ty.tyyszy5.com/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T06:20:55.090Z",
+      "note": "响应格式不符",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_90ef33707ec986eb",
+      "name": "🐯┃奇虎┃采集·ok线路1",
+      "url": "https://caiji.qhzyapi.com/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T15:58:11.545Z",
+      "note": "网络请求失败",
+      "origins": [
+        "TVboxorg/TVbox"
+      ]
+    },
+    {
+      "id": "auto_91b732ccd690006a",
+      "name": "嘀嗒影视（公开CMS探测）",
+      "url": "https://www.didahd.xyz/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-19T20:12:53.682Z",
+      "note": "接口返回 HTTP 错误",
+      "origins": [
+        "laoma528/awesome-zhuiju-free"
+      ]
+    },
+    {
+      "id": "auto_92bf37821577eaee",
+      "name": "乌云影视（公开CMS探测）",
+      "url": "https://wooyun.tv/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T04:29:05.871Z",
+      "note": "网络请求失败",
+      "origins": [
+        "YYDS678/uzVideo-extensions"
+      ]
+    },
+    {
+      "id": "auto_9371538782029cdf",
+      "name": "VOV伦理",
+      "url": "https://vovzy.com/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T11:10:09.028Z",
+      "note": "网络请求失败",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_945fed8575f0f7ff",
+      "name": "OK资源",
+      "url": "https://api.okzy.org/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T04:29:05.465Z",
+      "note": "网络请求失败",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_950134b58f47fbb9",
+      "name": "🌍 全球直播",
+      "url": "https://zoe.im/tvbox/shared/lives/Global.m3u",
+      "format": "maccms-xml",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T14:54:12.516Z",
+      "note": "响应格式不符、网络请求失败",
+      "origins": [
+        "jiusanzhou/tvbox"
+      ]
+    },
+    {
+      "id": "auto_970184bc8fdb7f7d",
+      "name": "CK资源采集接口",
+      "url": "https://ckzy.me/api.php/provide/vod/at/xml",
+      "format": "maccms-xml",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T13:02:08.980Z",
+      "note": "响应格式不符、请求超时",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_981828d4d82a43ad",
+      "name": "追影（公开CMS探测）",
+      "url": "https://zhuiying3.cc/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-19T20:12:51.686Z",
+      "note": "响应格式不符",
+      "origins": [
+        "laoma528/awesome-zhuiju-free"
+      ]
+    },
+    {
+      "id": "auto_988fd54d0942a5b4",
+      "name": "布布追剧（公开CMS探测）",
+      "url": "https://bubuzhuiju.com/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T01:33:00.059Z",
+      "note": "请求超时",
+      "origins": [
+        "laoma528/awesome-zhuiju-free"
+      ]
+    },
+    {
+      "id": "auto_990905bd31674f99",
+      "name": "猫眼资源",
+      "url": "https://api.maoyanapi.top/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-19T23:24:55.079Z",
+      "note": "媒体片段不可读、接口返回 HTTP 错误",
+      "origins": [
+        "ZxxXinI/tvbox"
+      ]
+    },
+    {
+      "id": "auto_9a06ce803d8e775c",
+      "name": "独播库（公开CMS探测）",
+      "url": "https://www.dbku.tv/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-19T19:42:14.609Z",
+      "note": "接口返回 HTTP 错误",
+      "origins": [
+        "laoma528/awesome-zhuiju-free"
+      ]
+    },
+    {
+      "id": "auto_9a3cbeb041380203",
+      "name": "APP影院（公开CMS探测）",
+      "url": "https://www.appmovie.art/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-19T19:41:56.699Z",
+      "note": "接口返回 HTTP 错误",
+      "origins": [
+        "laoma528/awesome-zhuiju-free"
+      ]
+    },
+    {
+      "id": "auto_9a8a6fa39c3f2d4c",
+      "name": "api.guangsuapi.com",
+      "url": "https://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-19T23:40:49.030Z",
+      "note": "接口返回 HTTP 错误",
+      "origins": [
+        "gaotianliuyun/gao"
+      ]
+    },
+    {
+      "id": "auto_9aeac2c7e93b4923",
+      "name": "色猫资源网采集接口",
+      "url": "https://caiji.semaozy.net/inc/api.php/provide/vod/at/xml",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-19T19:41:19.569Z",
+      "note": "响应格式不符、网络请求失败",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_9b3f33ac56be91ed",
+      "name": "爱壹帆（公开CMS探测）",
+      "url": "https://iyf.tv/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-19T19:42:01.642Z",
+      "note": "接口返回 HTTP 错误",
+      "origins": [
+        "laoma528/awesome-zhuiju-free"
+      ]
+    },
+    {
+      "id": "auto_9b40134e3ed490cc",
+      "name": "大地资源",
+      "url": "https://dadiapi.com/api.php",
+      "format": "maccms-xml",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T09:50:01.922Z",
+      "note": "响应格式不符",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_9b8586a6dd1f30b1",
+      "name": "[嗅] MuteFun（公开CMS探测）",
+      "url": "https://www.mutean.com/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T07:09:05.802Z",
+      "note": "响应格式不符",
+      "origins": [
+        "YYDS678/uzVideo-extensions"
+      ]
+    },
+    {
+      "id": "auto_9f3f2bc5e417314d",
+      "name": "精品葡萄",
+      "url": "https://caiji.putaozyw.net/inc/apijson_vod.php",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T05:00:57.461Z",
+      "note": "网络请求失败",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_9fa1117303b57807",
+      "name": "[盘] 二小（公开CMS探测）",
+      "url": "http://2xiaopan.fun/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T00:12:51.698Z",
+      "note": "网络请求失败",
+      "origins": [
+        "YYDS678/uzVideo-extensions"
+      ]
+    },
+    {
+      "id": "auto_a008bc65a8283f5a",
+      "name": "搜TV啦（公开CMS探测）",
+      "url": "https://www.sotvla.cc/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-19T19:41:57.279Z",
+      "note": "接口返回 HTTP 错误",
+      "origins": [
+        "laoma528/awesome-zhuiju-free"
+      ]
+    },
+    {
+      "id": "auto_a22dfcfb2b6e50f7",
+      "name": "滴滴资源",
+      "url": "https://api.ddapi.cc/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T10:06:09.317Z",
+      "note": "未匹配到样本、请求超时",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_a343e82759b2d61a",
+      "name": "搜av资源站采集接口",
+      "url": "https://api.souavzy.vip/api.php/provide/vod/at/xml",
+      "format": "maccms-xml",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T13:50:11.672Z",
+      "note": "响应格式不符、网络请求失败、请求超时",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_a35ff044ae313d84",
+      "name": "非凡┃采集",
+      "url": "http://cj.ffzyapi.com/api.php/provide/vod/at/xml",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-19T19:41:56.216Z",
+      "note": "网络请求失败",
+      "origins": [
+        "gaotianliuyun/gao"
+      ]
+    },
+    {
+      "id": "auto_a3625b69a3976b96",
+      "name": "🎏百度┃采集·ok线路1",
+      "url": "https://api.apibdzy.com/api.php/provide/vod/?ac=list",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T02:04:55.266Z",
+      "note": "接口返回 HTTP 错误、未匹配到样本、请求超时",
+      "origins": [
+        "TVboxorg/TVbox"
+      ]
+    },
+    {
+      "id": "auto_a40220186a034952",
+      "name": "影图",
+      "url": "https://cj.vodimg.top/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T05:49:06.523Z",
+      "note": "接口返回 HTTP 错误、请求超时",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_a4389a1c172903b3",
+      "name": "IPV6①",
+      "url": "https://ghp.ci/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u",
+      "format": "maccms-xml",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T13:18:02.345Z",
+      "note": "网络请求失败",
+      "origins": [
+        "gaotianliuyun/gao"
+      ]
+    },
+    {
+      "id": "auto_a4a331af2c34c793",
+      "name": "利来资源",
+      "url": "http://llzxcj.com/inc/sck.php",
+      "format": "maccms-xml",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T09:02:00.155Z",
+      "note": "网络请求失败",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_a4df032378ffc952",
+      "name": "饭搭子影视（公开CMS探测）",
+      "url": "https://fdzys.com/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-19T21:00:52.581Z",
+      "note": "请求超时",
+      "origins": [
+        "laoma528/awesome-zhuiju-free"
+      ]
+    },
+    {
+      "id": "auto_a5b66c28ec97c15d",
+      "name": "奈菲影视（公开CMS探测）",
+      "url": "https://www.nfyingshi.com/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-19T19:42:29.060Z",
+      "note": "接口返回 HTTP 错误",
+      "origins": [
+        "laoma528/awesome-zhuiju-free"
+      ]
+    },
+    {
+      "id": "auto_a5cf35c0b14d3c84",
+      "name": "茅台资源站采集接口",
+      "url": "https://caiji.maotaizy.cc/api.php/provide/vod/at/xml",
+      "format": "maccms-xml",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T10:06:00.732Z",
+      "note": "未匹配到样本",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_a6da94e3c01d1690",
+      "name": "[禁] 91jav（公开CMS探测）",
+      "url": "https://041.bndmpsjx.com/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T02:05:08.994Z",
+      "note": "响应格式不符、网络请求失败、请求超时",
+      "origins": [
+        "YYDS678/uzVideo-extensions"
+      ]
+    },
+    {
+      "id": "auto_a8d12def512461b6",
+      "name": "黄瓜资源",
+      "url": "https://to.to-long.com/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T05:00:59.367Z",
+      "note": "网络请求失败",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_a95959856efbd0c5",
+      "name": "无尽资源网采集接口",
+      "url": "https://api.wujinapi.me/api.php/provide/vod/at/xml",
+      "format": "maccms-xml",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T10:54:14.099Z",
+      "note": "接口返回 HTTP 错误、请求超时",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_a9606989171cb4f9",
+      "name": "杏吧资源站采集接口",
+      "url": "https://xingba222.com/api.php/provide/vod/at/xml",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T09:02:10.642Z",
+      "note": "响应格式不符、请求超时",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_a98cd6e478d21d01",
+      "name": "[盘] 下饭（公开CMS探测）",
+      "url": "http://www.xn--ghqy10g1w0a.xyz/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-19T23:56:51.687Z",
+      "note": "网络请求失败",
+      "origins": [
+        "YYDS678/uzVideo-extensions"
+      ]
+    },
+    {
+      "id": "auto_a99acd4e73e59533",
+      "name": "旺旺短剧",
+      "url": "https://api.wwzy.tv/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T06:36:55.399Z",
+      "note": "网络请求失败",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_a9e4bb24a20f8020",
+      "name": "牛牛资源",
+      "url": "https://api.niuniuzy.me/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T04:28:58.490Z",
+      "note": "响应格式不符、请求超时",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_aa46e92fc928c1d0",
+      "name": "[嗅] 木白（公开CMS探测）",
+      "url": "https://m.mubai.link/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T01:01:09.216Z",
+      "note": "请求超时",
+      "origins": [
+        "YYDS678/uzVideo-extensions"
+      ]
+    },
+    {
+      "id": "auto_aa4cfc3721bfa44c",
+      "name": "创享影视（公开CMS探测）",
+      "url": "https://ys.cxkjg.cn/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-19T22:20:47.840Z",
+      "note": "接口返回 HTTP 错误",
+      "origins": [
+        "laoma528/awesome-zhuiju-free"
+      ]
+    },
+    {
+      "id": "auto_aa8d52159ea4c973",
+      "name": "蛋蛋奇（公开CMS探测）",
+      "url": "https://www.dandanqi.cc/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-19T20:44:45.269Z",
+      "note": "响应格式不符",
+      "origins": [
+        "laoma528/awesome-zhuiju-free"
+      ]
+    },
+    {
+      "id": "auto_aab45e6538b16552",
+      "name": "天涯资源",
+      "url": "https://tyyszy.com/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-19T19:41:24.564Z",
+      "note": "响应格式不符",
+      "origins": [
+        "ZxxXinI/tvbox"
+      ]
+    },
+    {
+      "id": "auto_ab3dbe06d09e1e36",
+      "name": "🔞 Adult",
+      "url": "https://zoe.im/tvbox/shared/lives/Adult.m3u",
+      "format": "maccms-xml",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-19T19:40:33.479Z",
+      "note": "响应格式不符",
+      "origins": [
+        "jiusanzhou/tvbox"
+      ]
+    },
+    {
+      "id": "auto_aba527c96d322ea8",
+      "name": "桃花资源采集网采集接口",
+      "url": "https://thzy1.me/api.php/provide/vod/at/xml",
+      "format": "maccms-xml",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T14:38:08.427Z",
+      "note": "响应格式不符",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_ace15513b51adde4",
+      "name": "暴风资源网采集接口",
+      "url": "https://bfzyapi.com/api.php/provide/vod/at/xml",
+      "format": "maccms-xml",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T12:14:00.031Z",
+      "note": "网络请求失败",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_acf39b902d010b17",
+      "name": "影夕视频（公开CMS探测）",
+      "url": "https://yingxivod.com/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-19T19:41:52.629Z",
+      "note": "响应格式不符",
+      "origins": [
+        "laoma528/awesome-zhuiju-free"
+      ]
+    },
+    {
+      "id": "auto_ada37c022212320a",
+      "name": "开心影院（公开CMS探测）",
+      "url": "https://www.kxyy1.cc/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-19T20:28:41.310Z",
+      "note": "响应格式不符",
+      "origins": [
+        "laoma528/awesome-zhuiju-free"
+      ]
+    },
+    {
+      "id": "auto_ae0167a441a55f14",
+      "name": "91精品资源网采集接口",
+      "url": "https://91jpzyw.com/api.php/provide/vod/at/xml",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T08:30:06.210Z",
+      "note": "未匹配到样本",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_ae5fa1f70716ce97",
+      "name": "辣椒资源网采集接口",
+      "url": "https://apilj.com/api.php/provide/vod/at/xml",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-19T19:41:10.211Z",
+      "note": "网络请求失败",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_ae886f215820c924",
+      "name": "樱之空（公开CMS探测）",
+      "url": "https://skr.skr1.cc:666/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-19T21:00:43.936Z",
+      "note": "接口返回 HTTP 错误",
+      "origins": [
+        "laoma528/awesome-zhuiju-free"
+      ]
+    },
+    {
+      "id": "auto_afe3377960a588c5",
+      "name": "色猫资源",
+      "url": "https://caiji.semaozy.net/inc/apijson_vod.php",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T05:48:55.094Z",
+      "note": "未匹配到样本、网络请求失败",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_b0056ad9aca9cc89",
+      "name": "极速资源网采集接口",
+      "url": "https://jszyapi.com/api.php/provide/vod/at/xml",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-19T19:41:45.819Z",
+      "note": "响应格式不符",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_b1bc305ba6610c2f",
+      "name": "俊于•综合",
+      "url": "http://home.jundie.top:81/Cat/tv/live.txt",
+      "format": "maccms-xml",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T12:46:12.583Z",
+      "note": "接口返回 HTTP 错误",
+      "origins": [
+        "gaotianliuyun/gao"
+      ]
+    },
+    {
+      "id": "auto_b36cb234dc3dba3e",
+      "name": "爱奇艺资源",
+      "url": "https://iqiyizyapi.com/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-19T20:12:47.901Z",
+      "note": "媒体片段不可读、未匹配到样本",
+      "origins": [
+        "ZxxXinI/tvbox",
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_b3e2085df2b30646",
+      "name": "[盘] 小米（公开CMS探测）",
+      "url": "https://xiaomiai.site/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-19T23:56:48.186Z",
+      "note": "网络请求失败",
+      "origins": [
+        "YYDS678/uzVideo-extensions"
+      ]
+    },
+    {
+      "id": "auto_b4bc8e55061e1d88",
+      "name": "聚星资源",
+      "url": "https://jxzyw.top/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T02:52:54.323Z",
+      "note": "网络请求失败",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_b688250f7ea2aba8",
+      "name": "天涯影视资源网采集接口",
+      "url": "https://tyyszyapi.com/api.php/provide/vod/at/xml",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T08:14:12.673Z",
+      "note": "未匹配到样本",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_b69305f0206e476e",
+      "name": "[盘] LibVio（公开CMS探测）",
+      "url": "https://libvio.mov/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T03:25:11.139Z",
+      "note": "请求超时",
+      "origins": [
+        "YYDS678/uzVideo-extensions"
+      ]
+    },
+    {
+      "id": "auto_b73489490e377a2f",
+      "name": "ikun资源网采集接口",
+      "url": "https://ikunzyapi.com/api.php/provide/vod/at/xml",
+      "format": "maccms-xml",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T09:50:12.361Z",
+      "note": "网络请求失败",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_b7de089304351c19",
+      "name": "🐉┃索尼┃高清·ok线路1",
+      "url": "https://suoniapi.com/api.php/provide/vod/?ac=list",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-19T19:41:19.739Z",
+      "note": "网络请求失败",
+      "origins": [
+        "TVboxorg/TVbox"
+      ]
+    },
+    {
+      "id": "auto_b825b48570ac5e7d",
+      "name": "🥑┃量子┃资源·ok线路1",
+      "url": "https://lzizy1.com/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T15:10:33.513Z",
+      "note": "样本检查失败、网络请求失败、请求超时",
+      "origins": [
+        "TVboxorg/TVbox"
+      ]
+    },
+    {
+      "id": "auto_baba3cb7ea2eac4d",
+      "name": "肥猫•综合",
+      "url": "http://我不是.肥猫.live/TV/tvzb.txt",
+      "format": "maccms-xml",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T12:30:02.897Z",
+      "note": "接口返回 HTTP 错误",
+      "origins": [
+        "gaotianliuyun/gao"
+      ]
+    },
+    {
+      "id": "auto_badbce12a3eec0d0",
+      "name": "[盘] 人人电影网（公开CMS探测）",
+      "url": "https://www.rrdynb.com/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T02:20:51.749Z",
+      "note": "接口返回 HTTP 错误",
+      "origins": [
+        "YYDS678/uzVideo-extensions"
+      ]
+    },
+    {
+      "id": "auto_bfc242154da1c308",
+      "name": "蜂巢片库",
+      "url": "https://api.fczy888.me/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T05:16:54.644Z",
+      "note": "网络请求失败",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_c06c32d576dd772f",
+      "name": "[直] 韩剧（公开CMS探测）",
+      "url": "https://www.hanjukankan.com/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T06:53:21.354Z",
+      "note": "请求超时",
+      "origins": [
+        "YYDS678/uzVideo-extensions"
+      ]
+    },
+    {
+      "id": "auto_c0b40df1f8a3cb2f",
+      "name": "[嗅] 路漫漫（公开CMS探测）",
+      "url": "https://www.lmm97.com/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T05:49:09.295Z",
+      "note": "网络请求失败",
+      "origins": [
+        "YYDS678/uzVideo-extensions"
+      ]
+    },
+    {
+      "id": "auto_c19959dc22392f08",
+      "name": "[禁] 玩偶姐姐（公开CMS探测）",
+      "url": "https://hongkongdollvideo.com/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T01:17:04.302Z",
+      "note": "网络请求失败",
+      "origins": [
+        "YYDS678/uzVideo-extensions"
+      ]
+    },
+    {
+      "id": "auto_c1b06f719aae5e14",
+      "name": "桃花资源",
+      "url": "https://thzy1.me/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T03:57:03.101Z",
+      "note": "媒体片段不可读、未匹配到样本",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_c493aaa9f31fd744",
+      "name": "非凡资源网采集接口",
+      "url": "http://api.ffzyapi.com/api.php/provide/vod/at/xml",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-19T19:41:23.955Z",
+      "note": "响应格式不符",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_c521e6bdb1ce540e",
+      "name": "乐播资源",
+      "url": "https://lbapi9.com/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T15:10:19.881Z",
+      "note": "网络请求失败、请求超时",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_c61799b68105a67e",
+      "name": "泥视频（公开CMS探测）",
+      "url": "https://www.nivod.vip/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T02:37:04.302Z",
+      "note": "接口返回 HTTP 错误、请求超时",
+      "origins": [
+        "laoma528/awesome-zhuiju-free"
+      ]
+    },
+    {
+      "id": "auto_c61b22ce821e34a5",
+      "name": "🇨🇳 央视卫视地方 (vbskycn)",
+      "url": "https://zoe.im/tvbox/shared/lives/vbskycn-iptv4.m3u",
+      "format": "maccms-xml",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T14:54:21.113Z",
+      "note": "网络请求失败、请求超时",
+      "origins": [
+        "jiusanzhou/tvbox"
+      ]
+    },
+    {
+      "id": "auto_c6696b6cfe840a93",
+      "name": "[禁] missav（公开CMS探测）",
+      "url": "https://missav.ai/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T00:12:46.086Z",
+      "note": "网络请求失败",
+      "origins": [
+        "YYDS678/uzVideo-extensions"
+      ]
+    },
+    {
+      "id": "auto_c67008c6c18255d6",
+      "name": "小绵羊资源",
+      "url": "https://vs.okcdn100.top/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T03:57:28.209Z",
+      "note": "接口返回 HTTP 错误、请求超时",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_c84b72700c25d097",
+      "name": "[直] 素白白（公开CMS探测）",
+      "url": "https://www.subaibai.com/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T01:01:33.313Z",
+      "note": "请求超时",
+      "origins": [
+        "YYDS678/uzVideo-extensions"
+      ]
+    },
+    {
+      "id": "auto_c95160479ba0bb3b",
+      "name": "量子",
+      "url": "https://cj.lziapi.com/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-19T22:52:43.017Z",
+      "note": "网络请求失败",
+      "origins": [
+        "ZxxXinI/tvbox",
+        "gaotianliuyun/gao",
+        "jiusanzhou/tvbox"
+      ]
+    },
+    {
+      "id": "auto_c9949e959b91a440",
+      "name": "[嗅] girigirilove（公开CMS探测）",
+      "url": "https://anime.girigirilove.com/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T02:04:56.767Z",
+      "note": "网络请求失败",
+      "origins": [
+        "YYDS678/uzVideo-extensions"
+      ]
+    },
+    {
+      "id": "auto_ca6053e8633579b8",
+      "name": "杏吧资源站采集接口",
+      "url": "https://xingba222.com/api.php/provide/vod/at/xml",
+      "format": "maccms-xml",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T09:18:04.339Z",
+      "note": "响应格式不符、请求超时",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_cabd3f97a3d29d20",
+      "name": "奶香香资源站采集接口",
+      "url": "https://Naixxzy.com/api.php/provide/vod/at/xml",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-19T19:41:21.587Z",
+      "note": "网络请求失败",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_cc4ca79a8cc2d3e3",
+      "name": "森林资源网采集接口",
+      "url": "https://slapibf.com/api.php/provide/vod/at/xml",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-19T19:41:48.297Z",
+      "note": "响应格式不符",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_cc4ce6cc077eb94f",
+      "name": "X细胞资源网采集接口",
+      "url": "https://www.xxibaozyw.com/api.php/provide/vod/at/xml",
+      "format": "maccms-xml",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T11:58:08.362Z",
+      "note": "网络请求失败、请求超时",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_cddd2073689eeebd",
+      "name": "🌸 樱花",
+      "url": "https://api.apiyhzy.com/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T15:42:19.865Z",
+      "note": "接口返回 HTTP 错误、网络请求失败",
+      "origins": [
+        "jiusanzhou/tvbox"
+      ]
+    },
+    {
+      "id": "auto_ce614886154cbf03",
+      "name": "[盘] 南风（公开CMS探测）",
+      "url": "https://www.nanf.cc/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T00:44:48.861Z",
+      "note": "网络请求失败",
+      "origins": [
+        "YYDS678/uzVideo-extensions"
+      ]
+    },
+    {
+      "id": "auto_cf5f4372534ec069",
+      "name": "小猫咪资源",
+      "url": "http://zy.xiaomaomi.cc/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T03:41:21.119Z",
+      "note": "请求超时",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_cfd046741d35fd99",
+      "name": "[直] 短剧天堂（公开CMS探测）",
+      "url": "https://duanjutt.tv/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-19T23:56:50.149Z",
+      "note": "网络请求失败",
+      "origins": [
+        "YYDS678/uzVideo-extensions"
+      ]
+    },
+    {
+      "id": "auto_d06c055ec1219a7e",
+      "name": "丫丫资源网采集接口",
+      "url": "https://cj.yayazy.net/api.php/provide/vod/at/xml",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-19T19:41:36.359Z",
+      "note": "响应格式不符",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_d0942e50e7ade40a",
+      "name": "155资源站采集接口",
+      "url": "https://155api.com/api.php/provide/vod/at/xml",
+      "format": "maccms-xml",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T12:30:06.124Z",
+      "note": "响应格式不符、网络请求失败",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_d1b422eb82442721",
+      "name": "YuanHsing•油管",
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/YuanHsing/YouTube_to_m3u/main/youtube.m3u",
+      "format": "maccms-xml",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-19T19:40:29.715Z",
+      "note": "网络请求失败",
+      "origins": [
+        "gaotianliuyun/gao"
+      ]
+    },
+    {
+      "id": "auto_d3ac79cb74360c29",
+      "name": "电影天堂采集综合资源接口",
+      "url": "http://caiji.dyttzyapi.com/api.php/provide/vod/at/xml",
+      "format": "maccms-xml",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T08:30:06.625Z",
+      "note": "网络请求失败",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_d3c94a178c48c4ab",
+      "name": "雪落影视（公开CMS探测）",
+      "url": "https://xlys.me/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T01:49:08.401Z",
+      "note": "请求超时",
+      "origins": [
+        "laoma528/awesome-zhuiju-free"
+      ]
+    },
+    {
+      "id": "auto_d3f52876f77e99c0",
+      "name": "Yoursmile•综合",
+      "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt",
+      "format": "maccms-xml",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T12:14:05.094Z",
+      "note": "响应格式不符",
+      "origins": [
+        "gaotianliuyun/gao"
+      ]
+    },
+    {
+      "id": "auto_d3fb85abd9c4f31f",
+      "name": "🦁┃四九┃资源·ok线路1",
+      "url": "https://49zy1.com/api.php/provide/vod/?ac=list",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T15:58:09.016Z",
+      "note": "网络请求失败",
+      "origins": [
+        "TVboxorg/TVbox"
+      ]
+    },
+    {
+      "id": "auto_d40c4b3548381222",
+      "name": "歪比巴卜（公开CMS探测）",
+      "url": "https://wbbb1.com/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-19T21:32:44.124Z",
+      "note": "响应格式不符",
+      "origins": [
+        "laoma528/awesome-zhuiju-free"
+      ]
+    },
+    {
+      "id": "auto_d4317c6aa57cfbca",
+      "name": "奥斯卡资源API采集接口大全",
+      "url": "https://aosikazy.com/api.php/provide/vod/at/xml",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-19T19:41:28.918Z",
+      "note": "响应格式不符",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_d4322d1cd0fd9e9a",
+      "name": "范明明•电台2",
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/fanmingming/live/main/radio/m3u/index.m3u",
+      "format": "maccms-xml",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T12:30:00.794Z",
+      "note": "网络请求失败",
+      "origins": [
+        "gaotianliuyun/gao"
+      ]
+    },
+    {
+      "id": "auto_d52e5ed455630070",
+      "name": "ikun资源网采集接口",
+      "url": "https://ikunzyapi.com/api.php/provide/vod/at/xml",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-19T19:41:15.908Z",
+      "note": "网络请求失败",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_d71266570b118cbd",
+      "name": "奶香香资源",
+      "url": "https://naixxzy1.com/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T06:04:54.498Z",
+      "note": "网络请求失败",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_d8397a8d24c5a856",
+      "name": "360资源站采集接口",
+      "url": "https://360zyzz.com/api.php/provide/vod/at/xml",
+      "format": "maccms-xml",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T13:02:14.043Z",
+      "note": "响应格式不符",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_d8e47a78ffb3aad5",
+      "name": "淫水机资源",
+      "url": "https://www.xrbsp.com/api/json.php",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T08:45:59.871Z",
+      "note": "未匹配到样本",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_d91c88043ac73a8f",
+      "name": "环亚资源",
+      "url": "http://hysscj.com/inc/sapi.php",
+      "format": "maccms-xml",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T09:02:01.939Z",
+      "note": "网络请求失败",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_da0318b16a741d1a",
+      "name": "丝袜资源采集网采集接口",
+      "url": "https://siwazyw.tv/api.php/provide/vod/at/xml",
+      "format": "maccms-xml",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T12:14:02.916Z",
+      "note": "网络请求失败",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_da862baa8c62c903",
+      "name": "百万资源网采集接口",
+      "url": "https://api.bwzyz.com/api.php/provide/vod/at/xml",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-19T19:41:56.179Z",
+      "note": "网络请求失败",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_db48d37bf2fe5e5b",
+      "name": "幸资源站采集接口",
+      "url": "https://xzybb1.com/api.php/provide/vod/at/xml",
+      "format": "maccms-xml",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T06:36:54.613Z",
+      "note": "网络请求失败",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_db7b7a09e5a35b81",
+      "name": "YanG•体育",
+      "url": "https://tv.iill.top/m3u/Sport",
+      "format": "maccms-xml",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T12:14:05.516Z",
+      "note": "网络请求失败",
+      "origins": [
+        "gaotianliuyun/gao"
+      ]
+    },
+    {
+      "id": "auto_dcb3d252a321fa9e",
+      "name": "无尽资源网采集接口",
+      "url": "https://api.wujinapi.me/api.php/provide/vod/at/xml",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-19T19:41:20.111Z",
+      "note": "接口返回 HTTP 错误",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_dcb7e8c22962a0a7",
+      "name": "好好看（公开CMS探测）",
+      "url": "https://www.hhkan2.com/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-19T20:28:41.672Z",
+      "note": "网络请求失败",
+      "origins": [
+        "laoma528/awesome-zhuiju-free"
+      ]
+    },
+    {
+      "id": "auto_dcf4431398d208c5",
+      "name": "百万资源",
+      "url": "https://api.bwzym3u8.com/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T05:16:57.838Z",
+      "note": "网络请求失败",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_dcfae85a17edf679",
+      "name": "155资源站采集接口",
+      "url": "https://155api.com/api.php/provide/vod/at/xml",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-19T19:41:33.124Z",
+      "note": "响应格式不符",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_dd1386a95e948208",
+      "name": "卧龙影视资源采集站采集接口",
+      "url": "https://collect.wolongzy.cc/api.php/provide/vod/at/xml",
+      "format": "maccms-xml",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T09:34:01.732Z",
+      "note": "网络请求失败",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_e097ac576813cb85",
+      "name": "[直] 厂长影视（公开CMS探测）",
+      "url": "https://www.czzy77.com/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T01:48:58.330Z",
+      "note": "响应格式不符",
+      "origins": [
+        "YYDS678/uzVideo-extensions"
+      ]
+    },
+    {
+      "id": "auto_e18a0de3a6e59020",
+      "name": "优速资源",
+      "url": "https://yszyw1.top/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T05:16:56.120Z",
+      "note": "网络请求失败",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_e2193faca51f84a1",
+      "name": "[盘] 欧歌（公开CMS探测）",
+      "url": "https://woog.nxog.eu.org/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T01:17:02.121Z",
+      "note": "响应格式不符、请求超时",
+      "origins": [
+        "YYDS678/uzVideo-extensions"
+      ]
+    },
+    {
+      "id": "auto_e3871a6f3ba4957a",
+      "name": "白嫖者联盟（公开CMS探测）",
+      "url": "https://www.tdgo.shop/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-19T19:42:18.607Z",
+      "note": "响应格式不符、请求超时",
+      "origins": [
+        "laoma528/awesome-zhuiju-free"
+      ]
+    },
+    {
+      "id": "auto_e42d8f734c504f20",
+      "name": "百花资源",
+      "url": "https://bhziyuan.com/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T07:42:30.888Z",
+      "note": "未匹配到样本、网络请求失败",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_e5a653260d3afc33",
+      "name": "YueChan•综合",
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u",
+      "format": "maccms-xml",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T10:38:01.096Z",
+      "note": "网络请求失败",
+      "origins": [
+        "gaotianliuyun/gao"
+      ]
+    },
+    {
+      "id": "auto_e65fac5abe94d857",
+      "name": "黄AV资源",
+      "url": "https://www.pgxdy.com/api/json.php",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T06:36:58.498Z",
+      "note": "未匹配到样本",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_e6d2b4b18ac30d69",
+      "name": "可可影视（公开CMS探测）",
+      "url": "https://www.kkys14.com/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-19T21:48:48.387Z",
+      "note": "接口返回 HTTP 错误",
+      "origins": [
+        "laoma528/awesome-zhuiju-free"
+      ]
+    },
+    {
+      "id": "auto_e761370d861c3e46",
+      "name": "厂长资源（公开CMS探测）",
+      "url": "https://www.czzymovie.com/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-19T21:32:47.410Z",
+      "note": "接口返回 HTTP 错误",
+      "origins": [
+        "laoma528/awesome-zhuiju-free"
+      ]
+    },
+    {
+      "id": "auto_e79d366730f126bb",
+      "name": "🦁 豪华",
+      "url": "https://www.haohuazy.com/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T07:58:39.448Z",
+      "note": "请求超时",
+      "origins": [
+        "jiusanzhou/tvbox"
+      ]
+    },
+    {
+      "id": "auto_e9792083449e15b6",
+      "name": "爱电影（公开CMS探测）",
+      "url": "https://kuhh4jo.com/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-19T19:42:23.623Z",
+      "note": "接口返回 HTTP 错误",
+      "origins": [
+        "laoma528/awesome-zhuiju-free"
+      ]
+    },
+    {
+      "id": "auto_ea4aa389a68429bc",
+      "name": "558资源",
+      "url": "http://558zy.com/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T06:05:07.232Z",
+      "note": "响应格式不符",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_eb0747d974162d72",
+      "name": "YES资源",
+      "url": "https://www.yeszy1.com/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T11:10:01.208Z",
+      "note": "网络请求失败",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_ebc63226800abc5b",
+      "name": "乐视",
+      "url": "https://leshiapi.com/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-19T19:41:43.222Z",
+      "note": "网络请求失败",
+      "origins": [
+        "gaotianliuyun/gao"
+      ]
+    },
+    {
+      "id": "auto_ed4fa19c12b4c7bb",
+      "name": "搜AV资源",
+      "url": "https://api.souavzy.vip/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T07:42:18.621Z",
+      "note": "未匹配到样本、网络请求失败、请求超时",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_ee439e36943284df",
+      "name": "卧龙影视资源采集站采集接口",
+      "url": "https://collect.wolongzy.cc/api.php/provide/vod/at/xml",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-19T19:40:44.129Z",
+      "note": "网络请求失败",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_f135c30f85d8685a",
+      "name": "[盘] 4KTop（公开CMS探测）",
+      "url": "https://4ktop.com/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T01:32:49.476Z",
+      "note": "响应格式不符",
+      "origins": [
+        "YYDS678/uzVideo-extensions"
+      ]
+    },
+    {
+      "id": "auto_f294336b6981c671",
+      "name": "Ray•综合",
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/dxawi/0/main/tvlive.txt",
+      "format": "maccms-xml",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T11:41:59.866Z",
+      "note": "网络请求失败",
+      "origins": [
+        "gaotianliuyun/gao"
+      ]
+    },
+    {
+      "id": "auto_f2ef86f557d78901",
+      "name": "🥗┃非凡┃资源·ok线路1",
+      "url": "http://ffzy1.tv/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-19T19:41:43.870Z",
+      "note": "网络请求失败",
+      "origins": [
+        "TVboxorg/TVbox"
+      ]
+    },
+    {
+      "id": "auto_f3b3f2f231530dca",
+      "name": "IPV6②",
+      "url": "https://ghp.ci/https://raw.githubusercontent.com/wwb521/live/main/tv.m3u",
+      "format": "maccms-xml",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T13:18:04.192Z",
+      "note": "网络请求失败",
+      "origins": [
+        "gaotianliuyun/gao"
+      ]
+    },
+    {
+      "id": "auto_f5a8ac96ad51a170",
+      "name": "百万资源网采集接口",
+      "url": "https://api.bwzyz.com/api.php/provide/vod/at/xml",
+      "format": "maccms-xml",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T11:42:02.941Z",
+      "note": "网络请求失败",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_f6197d201bc2accc",
+      "name": "爱盼（公开CMS探测）",
+      "url": "https://www.aipan.me/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-19T22:20:43.881Z",
+      "note": "接口返回 HTTP 错误",
+      "origins": [
+        "laoma528/awesome-zhuiju-free"
+      ]
+    },
+    {
+      "id": "auto_f7061cfe8e1e1f78",
+      "name": "🛰️飞速┃采集·ok线路1",
+      "url": "https://www.feisuzyapi.com/api.php/provide/vod/?ac=list",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-19T19:40:42.350Z",
+      "note": "网络请求失败",
+      "origins": [
+        "TVboxorg/TVbox"
+      ]
+    },
+    {
+      "id": "auto_f77bb3230f79cb85",
+      "name": "番茄资源",
+      "url": "https://fqzy4.me/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T09:01:58.357Z",
+      "note": "网络请求失败",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_f9bf1a0f0178d0b2",
+      "name": "优异资源",
+      "url": "https://a.uezy.pw/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T06:53:12.430Z",
+      "note": "响应格式不符、请求超时",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_f9e4be5c7eabfcfc",
+      "name": "豆瓣资源采集站采集接口大全",
+      "url": "https://caiji.dbzy5.com/api.php/provide/vod/at/xml",
+      "format": "maccms-xml",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T09:33:59.682Z",
+      "note": "网络请求失败",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_fa76cb534b7765ae",
+      "name": "[嗅] 樱花动漫（公开CMS探测）",
+      "url": "https://www.vdm5.com/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T02:52:52.879Z",
+      "note": "响应格式不符",
+      "origins": [
+        "YYDS678/uzVideo-extensions"
+      ]
+    },
+    {
+      "id": "auto_fa9c98b76c21e9c4",
+      "name": "豆瓣资源采集站采集接口大全",
+      "url": "https://caiji.dbzy5.com/api.php/provide/vod/at/xml",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-19T19:40:45.069Z",
+      "note": "网络请求失败",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_fbcf083c7a20a0bc",
+      "name": "色猫资源网采集接口",
+      "url": "https://caiji.semaozy.net/inc/api.php/provide/vod/at/xml",
+      "format": "maccms-xml",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T10:22:13.960Z",
+      "note": "响应格式不符、网络请求失败",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_fc2fb6803c97c40e",
+      "name": "[嗅] MX动漫（公开CMS探测）",
+      "url": "https://www.mxdm6.com/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T04:12:50.114Z",
+      "note": "网络请求失败",
+      "origins": [
+        "YYDS678/uzVideo-extensions"
+      ]
+    },
+    {
+      "id": "auto_fc93abfea00328b2",
+      "name": "金马资源",
+      "url": "https://api.jmzy.com/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T11:58:17.572Z",
+      "note": "网络请求失败、请求超时",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_fd3f0282c13d7754",
+      "name": "海洋资源",
+      "url": "https://www.seacms.org/zyapi.php",
+      "format": "maccms-xml",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-19T19:42:08.689Z",
+      "note": "请求超时",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_fda1dce1dfb77d6a",
+      "name": "森林资源",
+      "url": "https://slapibf.com/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T07:58:30.555Z",
+      "note": "未匹配到样本、样本检查失败、请求超时",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_fe7da656673bca30",
+      "name": "白嫖资源",
+      "url": "https://www.kxgav.com/api/json.php",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T09:49:59.513Z",
+      "note": "未匹配到样本",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "auto_feaaa103ae3b13d0",
+      "name": "爱奇艺资源站采集接口",
+      "url": "https://www.iqiyizyapi.com/api.php/provide/vod/at/xml",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T10:22:11.256Z",
+      "note": "响应格式不符",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "env_1",
+      "name": "速播资源",
+      "url": "https://subocaiji.com/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-19T23:40:44.160Z",
+      "note": "网络请求失败",
+      "origins": [
+        "ZxxXinI/tvbox",
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "env_11",
+      "name": "光速资源",
+      "url": "https://api.guangsuapi.com/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-19T23:40:46.184Z",
+      "note": "接口返回 HTTP 错误",
+      "origins": [
+        "ZxxXinI/tvbox",
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "env_12",
+      "name": "新浪资源",
+      "url": "http://api.xinlangapi.com/xinlangapi.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-19T23:24:47.876Z",
+      "note": "网络请求失败",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "env_13",
+      "name": "百度资源",
+      "url": "https://api.apibdzy.com/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T07:25:57.850Z",
+      "note": "未匹配到样本、样本检查失败、请求超时",
+      "origins": [
+        "ZxxXinI/tvbox",
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "env_2",
+      "name": "虎牙资源",
+      "url": "https://www.huyaapi.com/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-19T23:24:47.501Z",
+      "note": "接口返回 HTTP 错误",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "env_3",
+      "name": "最大资源",
+      "url": "https://api.zuidapi.com/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-19T20:44:43.321Z",
+      "note": "未匹配到样本",
+      "origins": [
+        "ZxxXinI/tvbox",
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "env_4",
+      "name": "暴风资源",
+      "url": "https://bfzyapi.com/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-19T22:52:52.576Z",
+      "note": "网络请求失败",
+      "origins": [
+        "TVboxorg/TVbox",
+        "ZxxXinI/tvbox",
+        "gaotianliuyun/gao",
+        "hd9211/Tvbox1",
+        "jiusanzhou/tvbox"
+      ]
+    },
+    {
+      "id": "env_6",
+      "name": "豪华资源",
+      "url": "https://hhzyapi.com/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T07:25:47.225Z",
+      "note": "接口返回 HTTP 错误、请求超时",
+      "origins": [
+        "TVboxorg/TVbox",
+        "ZxxXinI/tvbox",
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "env_7",
+      "name": "金鹰资源",
+      "url": "https://jyzyapi.com/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-20T15:10:22.502Z",
+      "note": "网络请求失败",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "env_8",
+      "name": "非凡资源",
+      "url": "http://cj.ffzyapi.com/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-19T22:36:45.241Z",
+      "note": "网络请求失败",
+      "origins": [
+        "gaotianliuyun/gao",
+        "hd9211/Tvbox1"
+      ]
+    },
+    {
+      "id": "env_9",
+      "name": "量子资源",
+      "url": "http://cj.lziapi.com/api.php/provide/vod",
+      "format": "maccms-json",
+      "status": "gray",
+      "passed": 0,
+      "total": 5,
+      "checkedAt": "2026-11-19T23:40:46.815Z",
+      "note": "网络请求失败",
+      "origins": [
+        "hd9211/Tvbox1"
+      ]
+    }
+  ]
+}
