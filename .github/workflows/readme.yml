@@ -1,0 +1,38 @@
+name: 更新片源目录 README
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - sources.json
+      - scripts/render-readme.mjs
+      - .github/workflows/readme.yml
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: tvline-readme
+  cancel-in-progress: true
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
+      - name: 生成并核对公开目录
+        run: |
+          node scripts/render-readme.mjs
+          node scripts/render-readme.mjs --check
+          git diff --check
+      - name: 发布 README
+        if: github.ref == 'refs/heads/main'
+        run: |
+          git add -- README.md
+          if git diff --cached --quiet; then exit 0; fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m 'Regenerate the TVLine README'
+          git push origin HEAD:main
