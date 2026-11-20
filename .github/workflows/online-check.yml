@@ -1,0 +1,16 @@
+name: 验证外网片源
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  search:
+    runs-on: ubuntu-latest
+    timeout-minutes: 3
+    steps:
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
+      - name: 从公开 TVLine 目录直连搜索和详情
+        run: node scripts/check-online.mjs
