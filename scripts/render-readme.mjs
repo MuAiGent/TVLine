@@ -78,7 +78,7 @@ ${table(groups.gray)}
 
 ## 维护方法
 
-- 在 [sources.json](sources.json) 添加或更新条目。已有接口沿用原 ID。同名的不同接口可以分别保留。
+- [在 GitHub 编辑片源清单](https://github.com/MuAiGent/TVLine/edit/main/sources.json)。已有接口沿用原 ID。同名的不同接口可以分别保留。提交到主分支后，GitHub Actions 会自动更新本页。
 - 复测后填写样本通过数 \`passed\`、样本总数 \`total\`、状态 \`status\`、时间 \`checkedAt\` 和简短备注 \`note\`。新条目尚未复测时使用 \`gray\`，通过数和总数填 0，时间填 \`null\`。
 - 地址使用可公开分享的点播接口。\`lastFullCheckAt\` 只在导入新的全量验源结果时更新。
 - 提交前运行 \`node scripts/render-readme.mjs\` 生成这张表。\`node scripts/render-readme.mjs --check\` 可检查清单和 README 是否一致。
